@@ -1,0 +1,6458 @@
+{
+  "nhits": 480,
+  "parameters": {
+  "dataset": "div-energie-10",
+  "rows": 1000,
+  "start": 0,
+  "sort": [
+  "jahr"
+  ],
+  "format": "json",
+  "timezone": "UTC"
+  },
+  "records": [
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "90a02fff44f0294d1d091d812b3cdf1c0a4252b1",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 4.366,
+  "bfs_nr_gemeinde": "4881",
+  "gemeinde_name": "Amlikon-Bissegg",
+  "total": 8.26,
+  "einwohner": 1329,
+  "biogasanlagen_landwirtschaft": 3.894
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "99b0a1da372abe6a89aa93fe943124637634b6b2",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 5.061,
+  "bfs_nr_gemeinde": "4461",
+  "gemeinde_name": "Amriswil",
+  "total": 5.061,
+  "einwohner": 14157
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3b90a4bad5782441f27a231bbaa69f1584bca4da",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.475,
+  "bfs_nr_gemeinde": "4891",
+  "gemeinde_name": "Berg (TG)",
+  "total": 3.21,
+  "einwohner": 3420,
+  "biogasanlagen_landwirtschaft": 0.73,
+  "wind": 0.005
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2267a3a06323f83cafef9ee38c868cddc667280a",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.971,
+  "bfs_nr_gemeinde": "4901",
+  "gemeinde_name": "Birwinken",
+  "total": 0.971,
+  "einwohner": 1330
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "21525b19aef5ae6fb9309d7ba5fefbaf4d955ab4",
+  "fields": {
+  "wasserkraft": 2.813,
+  "biogasanlagen_abwasser": 1.336,
+  "jahr": "2020",
+  "photovoltaik": 2.102,
+  "bfs_nr_gemeinde": "4471",
+  "gemeinde_name": "Bischofszell",
+  "total": 6.251,
+  "einwohner": 5878
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7d4775d2a95f687eddeaf6378a44b5b818c23e2b",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.844,
+  "bfs_nr_gemeinde": "4723",
+  "gemeinde_name": "Braunau",
+  "total": 0.844,
+  "einwohner": 801
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f1132133b2316759c46cfd75df4e8faea3813da5",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 4.081,
+  "bfs_nr_gemeinde": "4411",
+  "gemeinde_name": "Egnach",
+  "total": 4.081,
+  "einwohner": 4773
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "35963e3c0b9f19b609933b7c9fa01e348a97c7ab",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.51,
+  "bfs_nr_gemeinde": "4476",
+  "gemeinde_name": "Erlen",
+  "total": 2.51,
+  "einwohner": 3794
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8b363eccae389e0143da50c0d460d9fb01f482af",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.238,
+  "bfs_nr_gemeinde": "4726",
+  "gemeinde_name": "Fischingen",
+  "total": 2.532,
+  "einwohner": 2831,
+  "biogasanlagen_landwirtschaft": 0.294
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c3920185b5401e42db5ec55a2c2aa50abf06e774",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.035,
+  "bfs_nr_gemeinde": "4651",
+  "gemeinde_name": "Gottlieben",
+  "total": 0.035,
+  "einwohner": 334
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "242b183efcbddb3e014cd082386d3541e5dd8e92",
+  "fields": {
+  "wasserkraft": 11.333,
+  "jahr": "2020",
+  "photovoltaik": 1.243,
+  "bfs_nr_gemeinde": "4501",
+  "gemeinde_name": "Kradolf-Schönenberg",
+  "total": 12.576,
+  "einwohner": 3653
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "818fa4f138f5294b299aaeba4066a098a592cb10",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.631,
+  "bfs_nr_gemeinde": "4941",
+  "gemeinde_name": "Märstetten",
+  "total": 2.631,
+  "einwohner": 2887
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "93bd888b16cc107db6b70eca7ee637a473f538fa",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.263,
+  "bfs_nr_gemeinde": "4746",
+  "gemeinde_name": "Münchwilen (TG)",
+  "total": 2.263,
+  "einwohner": 5821
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2cbcc6b05c8e1da1a5f6824a07506a2f8f659f8b",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.531,
+  "bfs_nr_gemeinde": "4601",
+  "gemeinde_name": "Neunforn",
+  "total": 0.531,
+  "einwohner": 1080
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b50f266ae744e8f36490bab7e3f10938006e7222",
+  "fields": {
+  "wasserkraft": 0.202,
+  "jahr": "2020",
+  "photovoltaik": 0.825,
+  "bfs_nr_gemeinde": "4841",
+  "gemeinde_name": "Pfyn",
+  "total": 1.027,
+  "einwohner": 2094
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5271970962e27748600f98a2d48a1ef3315465f3",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.782,
+  "bfs_nr_gemeinde": "4751",
+  "gemeinde_name": "Rickenbach (TG)",
+  "total": 0.782,
+  "einwohner": 2823
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "74aca4b0b5fc3cf444ed1f9a450a1fcbed1a910c",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.938,
+  "bfs_nr_gemeinde": "4756",
+  "gemeinde_name": "Schönholzerswilen",
+  "total": 0.938,
+  "einwohner": 839
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ac457afa12492e8cd10fd82bfe89f6d11a58323d",
+  "fields": {
+  "wasserkraft": 0.316,
+  "jahr": "2020",
+  "photovoltaik": 2.099,
+  "bfs_nr_gemeinde": "4761",
+  "gemeinde_name": "Sirnach",
+  "total": 2.415,
+  "einwohner": 7887
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "995cabb68b2bebf66c60162544779e7f122c77a2",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.895,
+  "bfs_nr_gemeinde": "4506",
+  "gemeinde_name": "Sulgen",
+  "total": 1.895,
+  "einwohner": 3943
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "00a63de6598357e04cd330fdcdc8b6dad1f6315f",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.064,
+  "bfs_nr_gemeinde": "4786",
+  "gemeinde_name": "Wilen (TG)",
+  "total": 1.064,
+  "einwohner": 2518
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "166ec663685323d26b82788c611d71fbc970e77f",
+  "fields": {
+  "wasserkraft": 0.174,
+  "biogasanlagen_abwasser": 0.01,
+  "jahr": "2020",
+  "photovoltaik": 3.78,
+  "bfs_nr_gemeinde": "4551",
+  "gemeinde_name": "Aadorf",
+  "total": 3.964,
+  "einwohner": 9198
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4817ae5fee587a1e87ef3bc6b73cbd0e4203c051",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 3.576,
+  "bfs_nr_gemeinde": "4711",
+  "gemeinde_name": "Affeltrangen",
+  "total": 3.576,
+  "einwohner": 2642
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e0f89e15a603bb8aefebbf4198635622e55840f8",
+  "fields": {
+  "biogasanlagen_abwasser": 0.131,
+  "jahr": "2020",
+  "photovoltaik": 0.196,
+  "bfs_nr_gemeinde": "4801",
+  "gemeinde_name": "Berlingen",
+  "total": 0.327,
+  "einwohner": 907
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "aaa782206160623c3e2a98e8d059765af7104792",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.681,
+  "bfs_nr_gemeinde": "4716",
+  "gemeinde_name": "Bettwiesen",
+  "total": 0.681,
+  "einwohner": 1225
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "23d05dcf50a179744d6839e386e8bf052ad91fe3",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.576,
+  "biomasse_holz": 2.19,
+  "bfs_nr_gemeinde": "4721",
+  "gemeinde_name": "Bichelsee-Balterswil",
+  "total": 3.766,
+  "einwohner": 2949
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c4e085a7b3b43b45275d22d60e2bf4fc6db44dce",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.081,
+  "bfs_nr_gemeinde": "4643",
+  "gemeinde_name": "Bottighofen",
+  "total": 1.081,
+  "einwohner": 2392
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "bb90415c8400fc8fa04b007983f0945507934192",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.135,
+  "bfs_nr_gemeinde": "4921",
+  "gemeinde_name": "Bussnang",
+  "total": 1.135,
+  "einwohner": 2466
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b5b8459604ab1aa6f6b1e2621658628fff731f8d",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.036,
+  "bfs_nr_gemeinde": "4646",
+  "gemeinde_name": "Ermatingen",
+  "total": 1.036,
+  "einwohner": 3638
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ebc8a3c53704c2e6c77f834137b4d9a325201fad",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.06,
+  "biomasse_holz": 0.058,
+  "bfs_nr_gemeinde": "4724",
+  "gemeinde_name": "Eschlikon",
+  "total": 4.44,
+  "einwohner": 4564,
+  "biogasanlagen_landwirtschaft": 2.322
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d927592b83ec142cd6a3ae06687027d3583f5ada",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.015,
+  "bfs_nr_gemeinde": "4571",
+  "gemeinde_name": "Gachnang",
+  "total": 2.015,
+  "einwohner": 4472
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "cc0dc70eec4de5a5f9b339fc1ad6edc83dba2e4d",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.604,
+  "bfs_nr_gemeinde": "4486",
+  "gemeinde_name": "Hauptwil-Gottshaus",
+  "total": 1.604,
+  "einwohner": 2007
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c62fcd65e32649124548dc22e480714e742bb4dd",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.645,
+  "bfs_nr_gemeinde": "4811",
+  "gemeinde_name": "Herdern",
+  "total": 3.254,
+  "einwohner": 1114,
+  "biogasanlagen_landwirtschaft": 1.609
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "85d5a2296f79e5d1b1c333af7705bcdd9fe12b63",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.944,
+  "bfs_nr_gemeinde": "4816",
+  "gemeinde_name": "Homburg",
+  "total": 1.944,
+  "einwohner": 1544
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c18dc274c78c912090afae5d70685e49314d9022",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.925,
+  "bfs_nr_gemeinde": "4590",
+  "gemeinde_name": "Hüttlingen",
+  "total": 0.925,
+  "einwohner": 825
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "be206aa6dcb0bb651ddc2acdee7ba93ae72f7177",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.857,
+  "bfs_nr_gemeinde": "4821",
+  "gemeinde_name": "Hüttwilen",
+  "total": 1.857,
+  "einwohner": 1763
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e43cba14d959dea0be68753a8ba50fc53f47e653",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.92,
+  "bfs_nr_gemeinde": "4666",
+  "gemeinde_name": "Kemmental",
+  "total": 2.92,
+  "einwohner": 2592
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0e31d94259716bc7315e77630e47806b6771bcd2",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.815,
+  "bfs_nr_gemeinde": "4426",
+  "gemeinde_name": "Kesswil",
+  "total": 0.815,
+  "einwohner": 997
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "41ba60410e792d904008af520b4660a0cb724054",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 4.748,
+  "bfs_nr_gemeinde": "4671",
+  "gemeinde_name": "Kreuzlingen",
+  "total": 4.748,
+  "einwohner": 22375
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "070ef7929c80758cafb6a6ed810340f0c2e27338",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.721,
+  "bfs_nr_gemeinde": "4683",
+  "gemeinde_name": "Lengwil",
+  "total": 0.721,
+  "einwohner": 1723
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "aaeb59dc3efcdcd62d33d0078704be5d30657921",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.533,
+  "bfs_nr_gemeinde": "4741",
+  "gemeinde_name": "Lommis",
+  "total": 0.533,
+  "einwohner": 1237
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8a32180142d9559e873bef015ef9efb1e8b5bd2a",
+  "fields": {
+  "wasserkraft": 1.343,
+  "biogasanlagen_abwasser": 1.584,
+  "jahr": "2020",
+  "photovoltaik": 1.708,
+  "bfs_nr_gemeinde": "4591",
+  "gemeinde_name": "Matzingen",
+  "total": 4.635,
+  "einwohner": 3019
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5607e8a8f480d4889d96a1f0bc8b89801b91614f",
+  "fields": {
+  "wasserkraft": 1.365,
+  "jahr": "2020",
+  "photovoltaik": 1.415,
+  "bfs_nr_gemeinde": "4831",
+  "gemeinde_name": "Müllheim",
+  "total": 2.78,
+  "einwohner": 2994
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "34f91bfbfe38cc0bd894e28c49ba00d180a4841d",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.396,
+  "bfs_nr_gemeinde": "4846",
+  "gemeinde_name": "Raperswilen",
+  "total": 0.396,
+  "einwohner": 416
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4ee1302dd6f80141ffd9736062b3a941164c0af4",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 3.073,
+  "bfs_nr_gemeinde": "4431",
+  "gemeinde_name": "Roggwil (TG)",
+  "total": 3.193,
+  "einwohner": 3253,
+  "biogasanlagen_landwirtschaft": 0.12
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8b7c183c9609edfc7658850f91be487aa7cad2ae",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.538,
+  "bfs_nr_gemeinde": "4851",
+  "gemeinde_name": "Salenstein",
+  "total": 0.538,
+  "einwohner": 1409
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "90fc60d0fa7321e229bf339280b37df47c0a1f10",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.585,
+  "bfs_nr_gemeinde": "4546",
+  "gemeinde_name": "Schlatt (TG)",
+  "total": 0.585,
+  "einwohner": 1808
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7a6f2cf9bf80594c7afac5321ed4472b4e359388",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.653,
+  "bfs_nr_gemeinde": "4606",
+  "gemeinde_name": "Stettfurt",
+  "total": 1.653,
+  "einwohner": 1217
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "365a4553e80f72c4afb50d2361b017a19b2861e1",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.488,
+  "bfs_nr_gemeinde": "4776",
+  "gemeinde_name": "Tobel-Tägerschen",
+  "total": 1.488,
+  "einwohner": 1588
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d882c73f95cfaf1fe63a7909a5cfc6f9f89e28c0",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.726,
+  "bfs_nr_gemeinde": "4616",
+  "gemeinde_name": "Uesslingen-Buch",
+  "total": 0.726,
+  "einwohner": 1090
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e28a501c223c91586627167aaba536c7a00ebe5e",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.668,
+  "bfs_nr_gemeinde": "4451",
+  "gemeinde_name": "Uttwil",
+  "total": 0.668,
+  "einwohner": 1917
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c33abf853b1654d31c045b8b636b9c9b7a4d71d5",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 3.173,
+  "bfs_nr_gemeinde": "4781",
+  "gemeinde_name": "Wängi",
+  "total": 4.279,
+  "einwohner": 4740,
+  "biogasanlagen_landwirtschaft": 1.106
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "816921a5674edec800b33a28d12415f55dd88dda",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.849,
+  "bfs_nr_gemeinde": "4621",
+  "gemeinde_name": "Warth-Weiningen",
+  "total": 0.849,
+  "einwohner": 1363
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ba40f0a82e6c979fa2f421dff6cbb15da11e3883",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.572,
+  "bfs_nr_gemeinde": "4641",
+  "gemeinde_name": "Altnau",
+  "total": 1.572,
+  "einwohner": 2336
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3c5514dbea66383f3d8923126a71f0c207a0d1c2",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 4.522,
+  "bfs_nr_gemeinde": "4401",
+  "gemeinde_name": "Arbon",
+  "total": 4.522,
+  "einwohner": 14872
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "80d247948604aa9d0b94e6ba6101c2aec5460bdf",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.921,
+  "bfs_nr_gemeinde": "4536",
+  "gemeinde_name": "Basadingen-Schlattingen",
+  "total": 1.921,
+  "einwohner": 1814
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "da658d2daaac1e240f40084cedd5edbe7f1212c6",
+  "fields": {
+  "wasserkraft": 13.228,
+  "jahr": "2020",
+  "photovoltaik": 1.88,
+  "bfs_nr_gemeinde": "4911",
+  "gemeinde_name": "Bürglen (TG)",
+  "total": 15.108,
+  "einwohner": 3946
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ec7f8159b96cdb9bd7cda05069d3b29bb81c579b",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.548,
+  "bfs_nr_gemeinde": "4545",
+  "gemeinde_name": "Diessenhofen",
+  "total": 1.548,
+  "einwohner": 4091
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6368bab95e65e1cecfa97ba83865c63d86680d28",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.431,
+  "bfs_nr_gemeinde": "4406",
+  "gemeinde_name": "Dozwil",
+  "total": 0.431,
+  "einwohner": 683
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1ae79886065978aba8e59c62495faa4c04a07770",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.875,
+  "bfs_nr_gemeinde": "4806",
+  "gemeinde_name": "Eschenz",
+  "total": 0.875,
+  "einwohner": 1862
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0109a9d822d911a5fcee4d750254bd0ca94926ba",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.37,
+  "bfs_nr_gemeinde": "4561",
+  "gemeinde_name": "Felben-Wellhausen",
+  "total": 0.37,
+  "einwohner": 2864
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "942502b6a41d5518351dcc6a92e6f4e844693cf5",
+  "fields": {
+  "wasserkraft": 1.327,
+  "biogasanlagen_abwasser": 1.229,
+  "jahr": "2020",
+  "photovoltaik": 11.151,
+  "bfs_nr_gemeinde": "4566",
+  "gemeinde_name": "Frauenfeld",
+  "total": 16.991,
+  "einwohner": 25810,
+  "biogasanlagen_landwirtschaft": 1.465,
+  "biogasanlagen_industrie": 1.819
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c7f95bec190920654390d4ac5926f57126557321",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.382,
+  "bfs_nr_gemeinde": "4656",
+  "gemeinde_name": "Güttingen",
+  "total": 1.382,
+  "einwohner": 1663
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "953baea1d5afd4e29628bf2f124592ee34220c99",
+  "fields": {
+  "biogasanlagen_abwasser": 0.738,
+  "jahr": "2020",
+  "photovoltaik": 2.638,
+  "bfs_nr_gemeinde": "4416",
+  "gemeinde_name": "Hefenhofen",
+  "total": 3.376,
+  "einwohner": 1276
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c6b94dc67505a84756c9986d9c7aa187f34e2052",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.186,
+  "bfs_nr_gemeinde": "4495",
+  "gemeinde_name": "Hohentannen",
+  "total": 1.186,
+  "einwohner": 610
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1e1a06ef8ea88ec5a5b2d1088ef38a699ffe40d3",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.64,
+  "bfs_nr_gemeinde": "4421",
+  "gemeinde_name": "Horn",
+  "total": 1.64,
+  "einwohner": 2883
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "82021022486ebb8a2a235761039921fe431d07b8",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.008,
+  "bfs_nr_gemeinde": "4681",
+  "gemeinde_name": "Langrickenbach",
+  "total": 1.081,
+  "einwohner": 1338,
+  "biogasanlagen_landwirtschaft": 0.073
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b8b2659126133e45472fefa854b0fe5732b177d6",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.135,
+  "bfs_nr_gemeinde": "4826",
+  "gemeinde_name": "Mammern",
+  "total": 0.135,
+  "einwohner": 677
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9deae0fc8755edf679043008e33d3be6eaa7d6bb",
+  "fields": {
+  "biogasanlagen_abwasser": 0.236,
+  "jahr": "2020",
+  "photovoltaik": 0.77,
+  "bfs_nr_gemeinde": "4691",
+  "gemeinde_name": "Münsterlingen",
+  "total": 1.006,
+  "einwohner": 3492
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "27d6dc4f6e402ea23bf3d832859b44735707ba1f",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.969,
+  "bfs_nr_gemeinde": "4436",
+  "gemeinde_name": "Romanshorn",
+  "total": 2.969,
+  "einwohner": 11296
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "468d560ee053b261d8f4a9699f1075519d8b488c",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.209,
+  "bfs_nr_gemeinde": "4441",
+  "gemeinde_name": "Salmsach",
+  "total": 0.209,
+  "einwohner": 1470
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8c4d80eb6f381b23a2b7872bc4ea8967d7456806",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.274,
+  "bfs_nr_gemeinde": "4446",
+  "gemeinde_name": "Sommeri",
+  "total": 0.274,
+  "einwohner": 622
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "11f396deafb0a7eae262f122022245af71ab21b5",
+  "fields": {
+  "wasserkraft": 0.021,
+  "jahr": "2020",
+  "photovoltaik": 1.713,
+  "bfs_nr_gemeinde": "4864",
+  "gemeinde_name": "Steckborn",
+  "total": 1.734,
+  "einwohner": 3828
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "39ff6e028f948ce484263a2204681e562b5b4d14",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 4.426,
+  "bfs_nr_gemeinde": "4696",
+  "gemeinde_name": "Tägerwilen",
+  "total": 4.426,
+  "einwohner": 4924
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e501daf8e5e450a0f796ac95c92cef31e6ca9223",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.452,
+  "bfs_nr_gemeinde": "4611",
+  "gemeinde_name": "Thundorf",
+  "total": 1.452,
+  "einwohner": 1512
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "10cf467a111f0a6ed0a92ff83a63a1a14ed05eac",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 0.67,
+  "biomasse_holz": 0.322,
+  "bfs_nr_gemeinde": "4871",
+  "gemeinde_name": "Wagenhausen",
+  "total": 0.992,
+  "einwohner": 1765
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c9b8ac68495069ab394bd28665bd3720f296bcbd",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.552,
+  "bfs_nr_gemeinde": "4701",
+  "gemeinde_name": "Wäldi",
+  "total": 1.552,
+  "einwohner": 1055
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9a03a8a699a02e8d8cee28984167ecee2afe5448",
+  "fields": {
+  "wasserkraft": 8.097,
+  "biogasanlagen_abwasser": 2.194,
+  "jahr": "2020",
+  "kehricht": 57.317,
+  "photovoltaik": 5.565,
+  "bfs_nr_gemeinde": "4946",
+  "gemeinde_name": "Weinfelden",
+  "total": 73.173,
+  "einwohner": 11588
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a95ae41a81cac5d2221b874401ac9322813f490b",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 2.522,
+  "bfs_nr_gemeinde": "4951",
+  "gemeinde_name": "Wigoltingen",
+  "total": 3.122,
+  "einwohner": 2560,
+  "biogasanlagen_landwirtschaft": 0.6
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "845e80da7cbeab2443e12a7e41e8e2dd452f7870",
+  "fields": {
+  "jahr": "2020",
+  "photovoltaik": 1.271,
+  "bfs_nr_gemeinde": "4791",
+  "gemeinde_name": "Wuppenau",
+  "total": 1.271,
+  "einwohner": 1129
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "565cbd9d9d732489f0087d898ea63bfed8a26928",
+  "fields": {
+  "wasserkraft": 0.325,
+  "jahr": "2020",
+  "photovoltaik": 1.566,
+  "bfs_nr_gemeinde": "4511",
+  "gemeinde_name": "Zihlschlacht-Sitterdorf",
+  "total": 1.891,
+  "einwohner": 2478
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a4ce5b59b1dbeeb2e3d26726806be04d5a7d8a22",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 4.248,
+  "bfs_nr_gemeinde": "4881",
+  "gemeinde_name": "Amlikon-Bissegg",
+  "total": 6.451,
+  "einwohner": 1333,
+  "biogasanlagen_landwirtschaft": 2.203
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e8e5324cb5f540e2ed4ac3e090ac728d4bbbd6c3",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.217,
+  "bfs_nr_gemeinde": "4891",
+  "gemeinde_name": "Berg (TG)",
+  "total": 2.898,
+  "einwohner": 3444,
+  "biogasanlagen_landwirtschaft": 0.675,
+  "wind": 0.006
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a2babd7cf851c9f848877b26a6560e3456719cb0",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.598,
+  "bfs_nr_gemeinde": "4716",
+  "gemeinde_name": "Bettwiesen",
+  "total": 0.598,
+  "einwohner": 1223
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "bd03ab065ab0629acbe6ba73eafd56a1ee5d0e86",
+  "fields": {
+  "wasserkraft": 13.652,
+  "jahr": "2019",
+  "photovoltaik": 1.384,
+  "bfs_nr_gemeinde": "4911",
+  "gemeinde_name": "Bürglen (TG)",
+  "total": 15.036,
+  "einwohner": 3949
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "91d83f6d01b993b8f730d2755b86c784afa1acfa",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.032,
+  "bfs_nr_gemeinde": "4726",
+  "gemeinde_name": "Fischingen",
+  "total": 2.321,
+  "einwohner": 2792,
+  "biogasanlagen_landwirtschaft": 0.289
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3f046a177a76a354f90925584c9564910381c8e0",
+  "fields": {
+  "wasserkraft": 1.575,
+  "biogasanlagen_abwasser": 1.229,
+  "jahr": "2019",
+  "photovoltaik": 9.07,
+  "bfs_nr_gemeinde": "4566",
+  "gemeinde_name": "Frauenfeld",
+  "total": 15.325,
+  "einwohner": 25622,
+  "biogasanlagen_landwirtschaft": 2.125,
+  "biogasanlagen_industrie": 1.326
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "83eb08b87bc09ae6781669385d64faa1ed1907ea",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.413,
+  "bfs_nr_gemeinde": "4486",
+  "gemeinde_name": "Hauptwil-Gottshaus",
+  "total": 1.413,
+  "einwohner": 1987
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a5ea0a253c5b91f3902cd76003c623d0fcf0f9a6",
+  "fields": {
+  "biogasanlagen_abwasser": 0.675,
+  "jahr": "2019",
+  "photovoltaik": 2.392,
+  "bfs_nr_gemeinde": "4416",
+  "gemeinde_name": "Hefenhofen",
+  "total": 3.067,
+  "einwohner": 1201
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ccf5369d8e53e1217eb23328ed4b558f7708fc91",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.273,
+  "bfs_nr_gemeinde": "4811",
+  "gemeinde_name": "Herdern",
+  "total": 2.35,
+  "einwohner": 1111,
+  "biogasanlagen_landwirtschaft": 1.077
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5f6990a6cdbdd50659431cd9b62dbdae28aa35ab",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.69,
+  "bfs_nr_gemeinde": "4590",
+  "gemeinde_name": "Hüttlingen",
+  "total": 0.69,
+  "einwohner": 840
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "452156b77bafe54fc2e4bff425ceab925e6903bd",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.754,
+  "bfs_nr_gemeinde": "4426",
+  "gemeinde_name": "Kesswil",
+  "total": 0.754,
+  "einwohner": 1000
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b7e57b1dce6bb6bb9e60c3396092c18635eacce9",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.627,
+  "bfs_nr_gemeinde": "4683",
+  "gemeinde_name": "Lengwil",
+  "total": 0.627,
+  "einwohner": 1738
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "984135705d66c8bec119d4828682b2ae033eb591",
+  "fields": {
+  "wasserkraft": 1.786,
+  "biogasanlagen_abwasser": 1.629,
+  "jahr": "2019",
+  "photovoltaik": 1.236,
+  "bfs_nr_gemeinde": "4591",
+  "gemeinde_name": "Matzingen",
+  "total": 4.651,
+  "einwohner": 2958
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "43c03b1136f62db42699cc2f74f902ac62fb5ae9",
+  "fields": {
+  "wasserkraft": 1.42,
+  "jahr": "2019",
+  "photovoltaik": 1.227,
+  "bfs_nr_gemeinde": "4831",
+  "gemeinde_name": "Müllheim",
+  "total": 2.647,
+  "einwohner": 2995
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "33819e665c46145ef5cd4838fead03cc4da8d176",
+  "fields": {
+  "biogasanlagen_abwasser": 0.172,
+  "jahr": "2019",
+  "photovoltaik": 0.646,
+  "bfs_nr_gemeinde": "4691",
+  "gemeinde_name": "Münsterlingen",
+  "total": 0.818,
+  "einwohner": 3495
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ec941f88b671ba2d398f50f0ad2f663ee5a5aecd",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.991,
+  "bfs_nr_gemeinde": "4436",
+  "gemeinde_name": "Romanshorn",
+  "total": 1.991,
+  "einwohner": 11236
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a5904d154cc0f171898e770700a12b8a8f20d631",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.35,
+  "bfs_nr_gemeinde": "4851",
+  "gemeinde_name": "Salenstein",
+  "total": 0.35,
+  "einwohner": 1364
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d78190caf23f8b477c4228498f93e33c059f0555",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.165,
+  "bfs_nr_gemeinde": "4441",
+  "gemeinde_name": "Salmsach",
+  "total": 0.165,
+  "einwohner": 1454
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a02bd230992e402513bf87d0db6405af4b67c024",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.523,
+  "bfs_nr_gemeinde": "4871",
+  "gemeinde_name": "Wagenhausen",
+  "total": 0.523,
+  "einwohner": 1711
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "90fc2946120e70009f6fc34b1f4621215c6f66cb",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.722,
+  "bfs_nr_gemeinde": "4621",
+  "gemeinde_name": "Warth-Weiningen",
+  "total": 0.722,
+  "einwohner": 1334
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ac3aee20e0acc46ace0cf7fd9fc40d9cf4c61eac",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.955,
+  "bfs_nr_gemeinde": "4786",
+  "gemeinde_name": "Wilen (TG)",
+  "total": 0.955,
+  "einwohner": 2515
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "eb17c951e88bfba84ab24bd313798fecb48b903b",
+  "fields": {
+  "wasserkraft": 0.247,
+  "biogasanlagen_abwasser": 0.016,
+  "jahr": "2019",
+  "photovoltaik": 3.046,
+  "bfs_nr_gemeinde": "4551",
+  "gemeinde_name": "Aadorf",
+  "total": 3.309,
+  "einwohner": 9028
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c46df8429cb416dd34bae42cbc8ba38815573004",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 3.355,
+  "bfs_nr_gemeinde": "4711",
+  "gemeinde_name": "Affeltrangen",
+  "total": 3.355,
+  "einwohner": 2603
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e742de0c015969287f45d4999de6efe92d7e5a05",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.222,
+  "bfs_nr_gemeinde": "4641",
+  "gemeinde_name": "Altnau",
+  "total": 1.222,
+  "einwohner": 2280
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ebbce43805f980f6b6c04a9dec37068805cf0d2e",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 4.215,
+  "bfs_nr_gemeinde": "4461",
+  "gemeinde_name": "Amriswil",
+  "total": 4.215,
+  "einwohner": 13745
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "276771dfa6ed152af784e54206dbdda3b34cbafc",
+  "fields": {
+  "biogasanlagen_abwasser": 0.119,
+  "jahr": "2019",
+  "photovoltaik": 0.175,
+  "bfs_nr_gemeinde": "4801",
+  "gemeinde_name": "Berlingen",
+  "total": 0.294,
+  "einwohner": 894
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7e64935c5037694fbdeba0372f85a2644a436380",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.789,
+  "bfs_nr_gemeinde": "4901",
+  "gemeinde_name": "Birwinken",
+  "total": 0.789,
+  "einwohner": 1340
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ac038a49819604c23bf273c25c2829b714ed6a86",
+  "fields": {
+  "wasserkraft": 1.219,
+  "biogasanlagen_abwasser": 1.329,
+  "jahr": "2019",
+  "photovoltaik": 4.892,
+  "bfs_nr_gemeinde": "4471",
+  "gemeinde_name": "Bischofszell",
+  "total": 7.44,
+  "einwohner": 5963
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "12afc0f345db08fe2c60c197c742c5242d7cb3a7",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.872,
+  "bfs_nr_gemeinde": "4643",
+  "gemeinde_name": "Bottighofen",
+  "total": 0.872,
+  "einwohner": 2295
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "93f0b2bafeac62bb6e94316170a22471cece7305",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.385,
+  "bfs_nr_gemeinde": "4545",
+  "gemeinde_name": "Diessenhofen",
+  "total": 1.385,
+  "einwohner": 4029
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d69981e60d3ce6c4b7de98aeec42f2db2a66b296",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 3.384,
+  "bfs_nr_gemeinde": "4411",
+  "gemeinde_name": "Egnach",
+  "total": 3.384,
+  "einwohner": 4687
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "83b1f62dd28e6ecf4d1507fa05439b3c19fcc9a7",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.035,
+  "bfs_nr_gemeinde": "4651",
+  "gemeinde_name": "Gottlieben",
+  "total": 0.035,
+  "einwohner": 331
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "86bf87f432f4f3d164a69af23f97eb57ca290c8c",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.745,
+  "bfs_nr_gemeinde": "4821",
+  "gemeinde_name": "Hüttwilen",
+  "total": 1.745,
+  "einwohner": 1769
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "728f83bee16f23521403a444d38b8506c85f67f7",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.592,
+  "bfs_nr_gemeinde": "4666",
+  "gemeinde_name": "Kemmental",
+  "total": 2.592,
+  "einwohner": 2591
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f53eb16cc4a359476f744b04f13cc4a170b8b577",
+  "fields": {
+  "wasserkraft": 13.893,
+  "jahr": "2019",
+  "photovoltaik": 0.987,
+  "bfs_nr_gemeinde": "4501",
+  "gemeinde_name": "Kradolf-Schönenberg",
+  "total": 14.88,
+  "einwohner": 3605
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9347bba0158f7ff9c1e0acfa4e26751bd28d00b8",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 3.736,
+  "bfs_nr_gemeinde": "4671",
+  "gemeinde_name": "Kreuzlingen",
+  "total": 3.736,
+  "einwohner": 22193
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7404c057ec5dd1a441cdbb2de51e5721ad140a3a",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.857,
+  "bfs_nr_gemeinde": "4746",
+  "gemeinde_name": "Münchwilen (TG)",
+  "total": 1.857,
+  "einwohner": 5667
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "66e216add380d4241e24cbadc0ef4253362ff089",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.396,
+  "bfs_nr_gemeinde": "4601",
+  "gemeinde_name": "Neunforn",
+  "total": 0.396,
+  "einwohner": 1040
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "28f1c0c2d88395dca8fae5ec4ff93e98f5b3a6a9",
+  "fields": {
+  "wasserkraft": 2.065,
+  "jahr": "2019",
+  "photovoltaik": 0.74,
+  "bfs_nr_gemeinde": "4841",
+  "gemeinde_name": "Pfyn",
+  "total": 2.805,
+  "einwohner": 2065
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3411a4593eb39fa9c80b7d8c5e320a423615db8e",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.319,
+  "bfs_nr_gemeinde": "4846",
+  "gemeinde_name": "Raperswilen",
+  "total": 0.319,
+  "einwohner": 413
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "609eca29ee3c517110ecad9a3ac7fe53797d14ef",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.68,
+  "bfs_nr_gemeinde": "4751",
+  "gemeinde_name": "Rickenbach (TG)",
+  "total": 0.68,
+  "einwohner": 2798
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "196317dcb0f440a2750476e459159e9945fec976",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.605,
+  "bfs_nr_gemeinde": "4431",
+  "gemeinde_name": "Roggwil (TG)",
+  "total": 2.706,
+  "einwohner": 3082,
+  "biogasanlagen_landwirtschaft": 0.101
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7f5bbe1f7eb4346824844b2a15a682bddfa4afa1",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.247,
+  "bfs_nr_gemeinde": "4446",
+  "gemeinde_name": "Sommeri",
+  "total": 0.247,
+  "einwohner": 608
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "be336fd2690c4aba5ba0968e4173ccb9e6873373",
+  "fields": {
+  "wasserkraft": 0.021,
+  "jahr": "2019",
+  "photovoltaik": 1.353,
+  "bfs_nr_gemeinde": "4864",
+  "gemeinde_name": "Steckborn",
+  "total": 1.374,
+  "einwohner": 3736
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7ddc823b30dee14676e26fd32213ff2c16eb3e76",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.557,
+  "bfs_nr_gemeinde": "4506",
+  "gemeinde_name": "Sulgen",
+  "total": 1.557,
+  "einwohner": 3901
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "27e65a318e28c6ea7ddcd417f57acaa19446d22f",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.327,
+  "bfs_nr_gemeinde": "4611",
+  "gemeinde_name": "Thundorf",
+  "total": 1.327,
+  "einwohner": 1486
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2066f13b5fa890767e7c8a65c0611ab8b5f29740",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.536,
+  "bfs_nr_gemeinde": "4776",
+  "gemeinde_name": "Tobel-Tägerschen",
+  "total": 1.536,
+  "einwohner": 1601
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "77e361efd974e92a813ad9fc2a491b013cb5a101",
+  "fields": {
+  "wasserkraft": 9.62,
+  "biogasanlagen_abwasser": 1.316,
+  "jahr": "2019",
+  "kehricht": 55.345,
+  "photovoltaik": 4.865,
+  "bfs_nr_gemeinde": "4946",
+  "gemeinde_name": "Weinfelden",
+  "total": 71.146,
+  "einwohner": 11559
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "59934bd40ddcb486a6f6587135d36a7b4c755c56",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.295,
+  "bfs_nr_gemeinde": "4951",
+  "gemeinde_name": "Wigoltingen",
+  "total": 2.716,
+  "einwohner": 2456,
+  "biogasanlagen_landwirtschaft": 0.421
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a269b33f3543ed6d13c691afe5a4c6aec3cf3f89",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.139,
+  "bfs_nr_gemeinde": "4791",
+  "gemeinde_name": "Wuppenau",
+  "total": 1.139,
+  "einwohner": 1118
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b7250e6222e2a46161dabd89cd6db6e68ec24aee",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 3.98,
+  "bfs_nr_gemeinde": "4401",
+  "gemeinde_name": "Arbon",
+  "total": 3.98,
+  "einwohner": 14718
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4a2c6a0569b63e431d2e789d6c35a9b10b759ae0",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.892,
+  "bfs_nr_gemeinde": "4536",
+  "gemeinde_name": "Basadingen-Schlattingen",
+  "total": 1.892,
+  "einwohner": 1828
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "43a61bf4f0456906edcdd94c3e1684d0be9161dc",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.182,
+  "biomasse_holz": 2.439,
+  "bfs_nr_gemeinde": "4721",
+  "gemeinde_name": "Bichelsee-Balterswil",
+  "total": 3.621,
+  "einwohner": 2873
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9c9178afb3a46b67f525b7a561913853a260f48e",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.725,
+  "bfs_nr_gemeinde": "4723",
+  "gemeinde_name": "Braunau",
+  "total": 0.725,
+  "einwohner": 814
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "086bb1ff183ea595e3ea40395b82eaa7ddfd28cb",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.026,
+  "bfs_nr_gemeinde": "4921",
+  "gemeinde_name": "Bussnang",
+  "total": 1.026,
+  "einwohner": 2452
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f17ce3af445a43dc3a1076070911ecb2ac6e79c4",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.319,
+  "bfs_nr_gemeinde": "4406",
+  "gemeinde_name": "Dozwil",
+  "total": 0.319,
+  "einwohner": 684
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6b6b8e6a37f30cbbcf983f5289de624b56e636da",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.021,
+  "bfs_nr_gemeinde": "4476",
+  "gemeinde_name": "Erlen",
+  "total": 2.021,
+  "einwohner": 3764
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f92ec6832b547670ebcd7564cc8762691163818e",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.776,
+  "bfs_nr_gemeinde": "4646",
+  "gemeinde_name": "Ermatingen",
+  "total": 0.776,
+  "einwohner": 3521
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b2abaef5ac4327188f42770cbf6c6a97ff5caf5f",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.733,
+  "bfs_nr_gemeinde": "4806",
+  "gemeinde_name": "Eschenz",
+  "total": 0.733,
+  "einwohner": 1833
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c12976e341ebb2023afc51886b25d9783e159016",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.825,
+  "biomasse_holz": 0.113,
+  "bfs_nr_gemeinde": "4724",
+  "gemeinde_name": "Eschlikon",
+  "total": 4.145,
+  "einwohner": 4464,
+  "biogasanlagen_landwirtschaft": 2.207
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d29e1a197ad8a93442d441f03d25ec0b71b7a128",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.262,
+  "bfs_nr_gemeinde": "4561",
+  "gemeinde_name": "Felben-Wellhausen",
+  "total": 0.262,
+  "einwohner": 2858
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a8d57e86111c1b11945abb0869ff9ba148a219c6",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.799,
+  "bfs_nr_gemeinde": "4571",
+  "gemeinde_name": "Gachnang",
+  "total": 1.799,
+  "einwohner": 4443
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b1e6bb4ee1d788e6653227a9c3eb3e4016c33853",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.215,
+  "bfs_nr_gemeinde": "4656",
+  "gemeinde_name": "Güttingen",
+  "total": 1.215,
+  "einwohner": 1656
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c2782b97df59d718e741e81986e938cd794fb05d",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.108,
+  "bfs_nr_gemeinde": "4495",
+  "gemeinde_name": "Hohentannen",
+  "total": 1.108,
+  "einwohner": 584
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9f4f1c36b776f7568079dd178a4adab2e5fcdc71",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.911,
+  "bfs_nr_gemeinde": "4816",
+  "gemeinde_name": "Homburg",
+  "total": 1.911,
+  "einwohner": 1541
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4c611a279800e74d31b8cf66a16ca9c537ebb3cf",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.86,
+  "bfs_nr_gemeinde": "4421",
+  "gemeinde_name": "Horn",
+  "total": 0.86,
+  "einwohner": 2898
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "14bbe0b397455f2548bc2c8b36a2da188e9c98ec",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.809,
+  "bfs_nr_gemeinde": "4681",
+  "gemeinde_name": "Langrickenbach",
+  "total": 0.809,
+  "einwohner": 1274
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c8f339a9e1b2b1a17b9e407131c7a2d53c11210e",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.469,
+  "bfs_nr_gemeinde": "4741",
+  "gemeinde_name": "Lommis",
+  "total": 0.469,
+  "einwohner": 1208
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "fa9b2fa3bee274d39f6dec017faa132265b1e21e",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.088,
+  "bfs_nr_gemeinde": "4826",
+  "gemeinde_name": "Mammern",
+  "total": 0.088,
+  "einwohner": 658
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "29266e31a798734fd1b380ad5b7879f786ac213d",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.468,
+  "bfs_nr_gemeinde": "4941",
+  "gemeinde_name": "Märstetten",
+  "total": 2.468,
+  "einwohner": 2884
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a0e93668c6d06ffcf6428631231ac27a12e324e8",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.413,
+  "bfs_nr_gemeinde": "4546",
+  "gemeinde_name": "Schlatt (TG)",
+  "total": 0.413,
+  "einwohner": 1771
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "bfa438c22e5afbde8e2df5e551962d1af3fef1c3",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.743,
+  "bfs_nr_gemeinde": "4756",
+  "gemeinde_name": "Schönholzerswilen",
+  "total": 0.743,
+  "einwohner": 846
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6a8f94ace08f39f45aa52aa71caa977b3a1bc9e6",
+  "fields": {
+  "wasserkraft": 0.467,
+  "jahr": "2019",
+  "photovoltaik": 1.722,
+  "bfs_nr_gemeinde": "4761",
+  "gemeinde_name": "Sirnach",
+  "total": 2.189,
+  "einwohner": 7783
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0a635152941d7018dcbaa3988ba5f2842b54b87b",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.66,
+  "bfs_nr_gemeinde": "4606",
+  "gemeinde_name": "Stettfurt",
+  "total": 0.66,
+  "einwohner": 1228
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f1ece0da9a302b335390f7a970a32ce0c56ecdb8",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 4.096,
+  "bfs_nr_gemeinde": "4696",
+  "gemeinde_name": "Tägerwilen",
+  "total": 4.096,
+  "einwohner": 4765
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3ebd41d042d1b30f3b3f30243c8a746f850579ab",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.767,
+  "bfs_nr_gemeinde": "4616",
+  "gemeinde_name": "Uesslingen-Buch",
+  "total": 0.767,
+  "einwohner": 1078
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a8170fc65cd3add434e096e73a94d90a85b03651",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 0.503,
+  "bfs_nr_gemeinde": "4451",
+  "gemeinde_name": "Uttwil",
+  "total": 0.503,
+  "einwohner": 1889
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b8cd7d9794da26d0f6c6cb56470ce2cf318d0231",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 1.05,
+  "bfs_nr_gemeinde": "4701",
+  "gemeinde_name": "Wäldi",
+  "total": 1.05,
+  "einwohner": 1049
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "bb52ab655f387fef874d04a94a943e54f708542c",
+  "fields": {
+  "jahr": "2019",
+  "photovoltaik": 2.946,
+  "bfs_nr_gemeinde": "4781",
+  "gemeinde_name": "Wängi",
+  "total": 3.639,
+  "einwohner": 4742,
+  "biogasanlagen_landwirtschaft": 0.693
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ee97244ef59fef2e3cd50e4c9cd848c08e298e5b",
+  "fields": {
+  "wasserkraft": 0.362,
+  "jahr": "2019",
+  "photovoltaik": 1.255,
+  "bfs_nr_gemeinde": "4511",
+  "gemeinde_name": "Zihlschlacht-Sitterdorf",
+  "total": 1.617,
+  "einwohner": 2436
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "933a731281acb7e84ccb679cf8659818c313e73e",
+  "fields": {
+  "wasserkraft": 0.125,
+  "biogasanlagen_abwasser": 0.012,
+  "jahr": "2018",
+  "photovoltaik": 2.546,
+  "bfs_nr_gemeinde": "4551",
+  "gemeinde_name": "Aadorf",
+  "total": 2.683,
+  "einwohner": 9004
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2562f32b531fb504ea2a41f905996a1c66d65d1b",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 3.475,
+  "bfs_nr_gemeinde": "4711",
+  "gemeinde_name": "Affeltrangen",
+  "total": 3.475,
+  "einwohner": 2546
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "97864c0496ebcce749a92afc7e7512beefca2b37",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.008,
+  "bfs_nr_gemeinde": "4891",
+  "gemeinde_name": "Berg (TG)",
+  "total": 2.642,
+  "einwohner": 3406,
+  "biogasanlagen_landwirtschaft": 0.63,
+  "wind": 0.004
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "dd7869dbe9d1d8547c8664c35de2cc6f4fd78c93",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.847,
+  "bfs_nr_gemeinde": "4901",
+  "gemeinde_name": "Birwinken",
+  "total": 0.847,
+  "einwohner": 1321
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "cd8b28d054270ae48fc8d36521f127b0148c8041",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.818,
+  "bfs_nr_gemeinde": "4643",
+  "gemeinde_name": "Bottighofen",
+  "total": 0.818,
+  "einwohner": 2219
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6c9c7476e88886b5845b99c3b70a75ee036d665c",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.494,
+  "bfs_nr_gemeinde": "4806",
+  "gemeinde_name": "Eschenz",
+  "total": 0.494,
+  "einwohner": 1741
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5efe71e1105eaf7710821c56295d958fddafc135",
+  "fields": {
+  "wasserkraft": 1.73,
+  "biogasanlagen_abwasser": 1.111,
+  "jahr": "2018",
+  "photovoltaik": 8.537,
+  "bfs_nr_gemeinde": "4566",
+  "gemeinde_name": "Frauenfeld",
+  "total": 15.585,
+  "einwohner": 25456,
+  "biogasanlagen_landwirtschaft": 2.381,
+  "biogasanlagen_industrie": 1.826
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "99b9257ef2734cffbc2c1e33663d94a1228b0ba7",
+  "fields": {
+  "biogasanlagen_abwasser": 0.67,
+  "jahr": "2018",
+  "photovoltaik": 2.312,
+  "bfs_nr_gemeinde": "4416",
+  "gemeinde_name": "Hefenhofen",
+  "total": 2.982,
+  "einwohner": 1193
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "34defd18ce8a1860114a3f62346a873ff0ca0d83",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.866,
+  "bfs_nr_gemeinde": "4421",
+  "gemeinde_name": "Horn",
+  "total": 0.866,
+  "einwohner": 2748
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "aaeabe8463cb12106b59835c19d37c2054c870f6",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.587,
+  "bfs_nr_gemeinde": "4590",
+  "gemeinde_name": "Hüttlingen",
+  "total": 0.587,
+  "einwohner": 843
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d8e47b0b1c60c154c4d15351f24051367e964d21",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.681,
+  "bfs_nr_gemeinde": "4426",
+  "gemeinde_name": "Kesswil",
+  "total": 0.681,
+  "einwohner": 989
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0c8e2f95a7123441f879ab05de8c704d5bb83857",
+  "fields": {
+  "wasserkraft": 1.401,
+  "jahr": "2018",
+  "photovoltaik": 0.656,
+  "bfs_nr_gemeinde": "4841",
+  "gemeinde_name": "Pfyn",
+  "total": 2.057,
+  "einwohner": 2010
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "209417e345572b58b6bd6b86d69c662822807d67",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.304,
+  "bfs_nr_gemeinde": "4846",
+  "gemeinde_name": "Raperswilen",
+  "total": 0.304,
+  "einwohner": 414
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a1ea1c686df8ec10ab6a6e3ae8a60aecb183659f",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.451,
+  "bfs_nr_gemeinde": "4451",
+  "gemeinde_name": "Uttwil",
+  "total": 0.451,
+  "einwohner": 1856
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "043e47f362433b9b5c6cbc2ccbcfb8f9e70dfed9",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.489,
+  "bfs_nr_gemeinde": "4871",
+  "gemeinde_name": "Wagenhausen",
+  "total": 0.489,
+  "einwohner": 1678
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6a7f0acbf2f438585a02eb277fc421275ba3ba7b",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.665,
+  "bfs_nr_gemeinde": "4781",
+  "gemeinde_name": "Wängi",
+  "total": 3.581,
+  "einwohner": 4697,
+  "biogasanlagen_landwirtschaft": 0.916
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e4cc78f3dcb1816d6915653ec353495d9b2990b2",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 4.205,
+  "bfs_nr_gemeinde": "4881",
+  "gemeinde_name": "Amlikon-Bissegg",
+  "total": 5.333,
+  "einwohner": 1341,
+  "biogasanlagen_landwirtschaft": 1.128
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "07c2a13e7010dcbbab6424da2bdc2550a331962a",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 3.979,
+  "bfs_nr_gemeinde": "4461",
+  "gemeinde_name": "Amriswil",
+  "total": 3.979,
+  "einwohner": 13460
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a2a3ce2fe1bd32b2928135b8bef0441581759d3d",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.115,
+  "biomasse_holz": 3.037,
+  "bfs_nr_gemeinde": "4721",
+  "gemeinde_name": "Bichelsee-Balterswil",
+  "total": 4.152,
+  "einwohner": 2863
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9e2c26afdd0d4d9942a3cc0e68a815c7f96ce3e0",
+  "fields": {
+  "wasserkraft": 3.321,
+  "biogasanlagen_abwasser": 1.281,
+  "jahr": "2018",
+  "photovoltaik": 1.834,
+  "bfs_nr_gemeinde": "4471",
+  "gemeinde_name": "Bischofszell",
+  "total": 6.436,
+  "einwohner": 5985
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "02815eacdf0d20a0590e89d31f0d81a1e8b4cc39",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.635,
+  "bfs_nr_gemeinde": "4723",
+  "gemeinde_name": "Braunau",
+  "total": 0.635,
+  "einwohner": 778
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "638600efb9789f0fce630f965791ab67a1a59242",
+  "fields": {
+  "wasserkraft": 9.672,
+  "jahr": "2018",
+  "photovoltaik": 1.267,
+  "bfs_nr_gemeinde": "4911",
+  "gemeinde_name": "Bürglen (TG)",
+  "total": 10.939,
+  "einwohner": 3835
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6dc844b1cfc1586c87f6b323b33a87dd71da6cf8",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.871,
+  "bfs_nr_gemeinde": "4921",
+  "gemeinde_name": "Bussnang",
+  "total": 0.871,
+  "einwohner": 2342
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2091b374e08b65a8a49004586e15fba715b9a0bd",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.294,
+  "bfs_nr_gemeinde": "4545",
+  "gemeinde_name": "Diessenhofen",
+  "total": 1.294,
+  "einwohner": 3985
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e9cddf259af0ecf34c8f89a18409d08a952c2418",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.672,
+  "biomasse_holz": 0.035,
+  "bfs_nr_gemeinde": "4724",
+  "gemeinde_name": "Eschlikon",
+  "total": 3.39,
+  "einwohner": 4357,
+  "biogasanlagen_landwirtschaft": 1.683
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5c122548191bceaacb1cfb02713a306c8442d4f4",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.643,
+  "bfs_nr_gemeinde": "4821",
+  "gemeinde_name": "Hüttwilen",
+  "total": 1.643,
+  "einwohner": 1726
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ef857445ef731ac35166583242e47b817ace37bb",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.523,
+  "bfs_nr_gemeinde": "4666",
+  "gemeinde_name": "Kemmental",
+  "total": 2.523,
+  "einwohner": 2537
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "90a9dd4346d437d8d77825f7fd517280541acb75",
+  "fields": {
+  "wasserkraft": 7.633,
+  "jahr": "2018",
+  "photovoltaik": 0.877,
+  "bfs_nr_gemeinde": "4501",
+  "gemeinde_name": "Kradolf-Schönenberg",
+  "total": 8.51,
+  "einwohner": 3584
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "96e89e5c7763f61b9a7a04d2371ccbf387393c9c",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 3.15,
+  "bfs_nr_gemeinde": "4671",
+  "gemeinde_name": "Kreuzlingen",
+  "total": 3.15,
+  "einwohner": 21990
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9a4c8d32105803355b4b97139bb5d0009b59161f",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.661,
+  "bfs_nr_gemeinde": "4681",
+  "gemeinde_name": "Langrickenbach",
+  "total": 0.661,
+  "einwohner": 1295
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "af8efb2e07377c44923b33a70eeabcdb0b79d017",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.467,
+  "bfs_nr_gemeinde": "4741",
+  "gemeinde_name": "Lommis",
+  "total": 0.467,
+  "einwohner": 1211
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d9116e3814e80510f850c26d9861cef9e318bbfc",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.395,
+  "bfs_nr_gemeinde": "4941",
+  "gemeinde_name": "Märstetten",
+  "total": 2.395,
+  "einwohner": 2885
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "70428148d05911b965f78b2c481761675d9417e7",
+  "fields": {
+  "wasserkraft": 0.306,
+  "biogasanlagen_abwasser": 1.497,
+  "jahr": "2018",
+  "photovoltaik": 1.25,
+  "bfs_nr_gemeinde": "4591",
+  "gemeinde_name": "Matzingen",
+  "total": 3.053,
+  "einwohner": 2895
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "fcfb16cc7e853cd8851cef5f8c9243e6cd9d9a3f",
+  "fields": {
+  "biogasanlagen_abwasser": 0.206,
+  "jahr": "2018",
+  "photovoltaik": 0.559,
+  "bfs_nr_gemeinde": "4691",
+  "gemeinde_name": "Münsterlingen",
+  "total": 0.765,
+  "einwohner": 3476
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4313dbfa6e6e23ac191492b4af608baf36ab0136",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.524,
+  "bfs_nr_gemeinde": "4751",
+  "gemeinde_name": "Rickenbach (TG)",
+  "total": 0.524,
+  "einwohner": 2771
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b4497a1dcc4338a53ad0136389d044ee66f01bee",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.14,
+  "bfs_nr_gemeinde": "4441",
+  "gemeinde_name": "Salmsach",
+  "total": 0.14,
+  "einwohner": 1443
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5753eac792d0867c9f00b570f0384e6804d14f51",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.612,
+  "bfs_nr_gemeinde": "4756",
+  "gemeinde_name": "Schönholzerswilen",
+  "total": 0.612,
+  "einwohner": 866
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4667d4241860bd37bbab1f8e992b091517a6e2ec",
+  "fields": {
+  "wasserkraft": 0.249,
+  "jahr": "2018",
+  "photovoltaik": 1.407,
+  "bfs_nr_gemeinde": "4761",
+  "gemeinde_name": "Sirnach",
+  "total": 1.656,
+  "einwohner": 7733
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "904558f8620f1d117d70f0e43402dc06929231f4",
+  "fields": {
+  "wasserkraft": 0.026,
+  "jahr": "2018",
+  "photovoltaik": 1.27,
+  "bfs_nr_gemeinde": "4864",
+  "gemeinde_name": "Steckborn",
+  "total": 1.296,
+  "einwohner": 3742
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f739655d16ab128d10cbd058e978ef73659a2ec4",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.66,
+  "bfs_nr_gemeinde": "4606",
+  "gemeinde_name": "Stettfurt",
+  "total": 0.66,
+  "einwohner": 1207
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c86dc2b3e1e34509111ccbc11a106930a7b77e73",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.434,
+  "bfs_nr_gemeinde": "4506",
+  "gemeinde_name": "Sulgen",
+  "total": 1.434,
+  "einwohner": 3842
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a370938c19351b19b4e648db0361e44d6d31e32b",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 3.77,
+  "bfs_nr_gemeinde": "4696",
+  "gemeinde_name": "Tägerwilen",
+  "total": 3.77,
+  "einwohner": 4635
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "be1bb49f0d8130784befe90ab3afca85b3c2bfe4",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.618,
+  "bfs_nr_gemeinde": "4616",
+  "gemeinde_name": "Uesslingen-Buch",
+  "total": 0.618,
+  "einwohner": 1085
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "23b44060fe58b6174342a0b810db8c835f972eac",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.712,
+  "bfs_nr_gemeinde": "4621",
+  "gemeinde_name": "Warth-Weiningen",
+  "total": 0.712,
+  "einwohner": 1341
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "16dbd330eeae9c3422991d5de795da17907d6347",
+  "fields": {
+  "wasserkraft": 6.24,
+  "biogasanlagen_abwasser": 2.147,
+  "jahr": "2018",
+  "kehricht": 45.768,
+  "photovoltaik": 4.486,
+  "bfs_nr_gemeinde": "4946",
+  "gemeinde_name": "Weinfelden",
+  "total": 58.641,
+  "einwohner": 11483
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1c72e7127a8774ab11b3cf5a0828419c8cc1db46",
+  "fields": {
+  "wasserkraft": 0.307,
+  "jahr": "2018",
+  "photovoltaik": 0.449,
+  "bfs_nr_gemeinde": "4511",
+  "gemeinde_name": "Zihlschlacht-Sitterdorf",
+  "total": 0.756,
+  "einwohner": 2385
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a0e1da5b154c3547701caaedcd51459953ccaa64",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.022,
+  "bfs_nr_gemeinde": "4641",
+  "gemeinde_name": "Altnau",
+  "total": 1.022,
+  "einwohner": 2236
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "18831f0a639e50954b06f0afc12f7c6e8c8e8ff1",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 3.663,
+  "bfs_nr_gemeinde": "4401",
+  "gemeinde_name": "Arbon",
+  "total": 3.663,
+  "einwohner": 14533
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1cf8c8ee31a9d6047f8d22033f10e4637fe7f657",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.849,
+  "bfs_nr_gemeinde": "4536",
+  "gemeinde_name": "Basadingen-Schlattingen",
+  "total": 1.849,
+  "einwohner": 1833
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9b69981cfde34b649dc2e1d442f6e27602b05fb0",
+  "fields": {
+  "biogasanlagen_abwasser": 0.121,
+  "jahr": "2018",
+  "photovoltaik": 0.16,
+  "bfs_nr_gemeinde": "4801",
+  "gemeinde_name": "Berlingen",
+  "total": 0.281,
+  "einwohner": 893
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7419fcd1492a3e87d345862961c0e92db4163a73",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.525,
+  "bfs_nr_gemeinde": "4716",
+  "gemeinde_name": "Bettwiesen",
+  "total": 0.525,
+  "einwohner": 1241
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "94531f14c132cde4d4564efabc446fa1bdd40af4",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.285,
+  "bfs_nr_gemeinde": "4406",
+  "gemeinde_name": "Dozwil",
+  "total": 0.285,
+  "einwohner": 695
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b89d1516ce18a14934ccb8b350c82d96d825213b",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 3.196,
+  "bfs_nr_gemeinde": "4411",
+  "gemeinde_name": "Egnach",
+  "total": 3.196,
+  "einwohner": 4702
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8a736fcf9aa9922574567af346da25cae45790e9",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.172,
+  "bfs_nr_gemeinde": "4476",
+  "gemeinde_name": "Erlen",
+  "total": 2.172,
+  "einwohner": 3737
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "69611ee34848118b158f8ff844a4222e3bc6c182",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.561,
+  "bfs_nr_gemeinde": "4646",
+  "gemeinde_name": "Ermatingen",
+  "total": 0.561,
+  "einwohner": 3454
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5a53b54fb7f5382e7130f3f751cdd2f9dc94e1fd",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.251,
+  "bfs_nr_gemeinde": "4561",
+  "gemeinde_name": "Felben-Wellhausen",
+  "total": 0.251,
+  "einwohner": 2836
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e0031961347755da8281d56cd292fbfd946047b0",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.057,
+  "bfs_nr_gemeinde": "4726",
+  "gemeinde_name": "Fischingen",
+  "total": 2.347,
+  "einwohner": 2783,
+  "biogasanlagen_landwirtschaft": 0.29
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ab69bac12558211a4ef1904b262e84a228b33d50",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.612,
+  "bfs_nr_gemeinde": "4571",
+  "gemeinde_name": "Gachnang",
+  "total": 1.612,
+  "einwohner": 4347
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "aba7017b43895a761fb24bca0cc41284bf9e77c7",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.034,
+  "bfs_nr_gemeinde": "4651",
+  "gemeinde_name": "Gottlieben",
+  "total": 0.034,
+  "einwohner": 337
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c5c39dd9ac6c87c0b50ef179b9050dfff0a87d09",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.753,
+  "bfs_nr_gemeinde": "4656",
+  "gemeinde_name": "Güttingen",
+  "total": 0.753,
+  "einwohner": 1591
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d1e1afa8a99019a0afee50c3fca9d28bcbed04a2",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.311,
+  "bfs_nr_gemeinde": "4486",
+  "gemeinde_name": "Hauptwil-Gottshaus",
+  "total": 1.311,
+  "einwohner": 1941
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "95bdd989624f1d801360dc1618f0d110703589b1",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.211,
+  "bfs_nr_gemeinde": "4811",
+  "gemeinde_name": "Herdern",
+  "total": 1.624,
+  "einwohner": 1077,
+  "biogasanlagen_landwirtschaft": 0.413
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "56ca5beeb82f4e1d7f28ae7e1180a578e3350359",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.069,
+  "bfs_nr_gemeinde": "4495",
+  "gemeinde_name": "Hohentannen",
+  "total": 1.069,
+  "einwohner": 586
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d5f21ffbc7fe250d4a9002f00a1cec89b131044a",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.907,
+  "bfs_nr_gemeinde": "4816",
+  "gemeinde_name": "Homburg",
+  "total": 1.907,
+  "einwohner": 1542
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c4ff774dd180353d59a57a312146e9230c2bfdfb",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.557,
+  "bfs_nr_gemeinde": "4683",
+  "gemeinde_name": "Lengwil",
+  "total": 0.557,
+  "einwohner": 1726
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "24aa456c1c79879c06eb6357015cf59469ef5bb5",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.076,
+  "bfs_nr_gemeinde": "4826",
+  "gemeinde_name": "Mammern",
+  "total": 0.076,
+  "einwohner": 651
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "01fb99e354478d0b6b593c232c0765bd1072adb6",
+  "fields": {
+  "wasserkraft": 1.137,
+  "jahr": "2018",
+  "photovoltaik": 1.027,
+  "bfs_nr_gemeinde": "4831",
+  "gemeinde_name": "Müllheim",
+  "total": 2.164,
+  "einwohner": 2980
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "72f0007e6d701eb287c6400f80dea149548f5720",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.654,
+  "bfs_nr_gemeinde": "4746",
+  "gemeinde_name": "Münchwilen (TG)",
+  "total": 1.654,
+  "einwohner": 5607
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4af3f840efd299859078b475fd009b9be1ebb077",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.367,
+  "bfs_nr_gemeinde": "4601",
+  "gemeinde_name": "Neunforn",
+  "total": 0.367,
+  "einwohner": 1032
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f897630fff6a0fdb0c2fc7a430e944814d96c415",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.265,
+  "bfs_nr_gemeinde": "4431",
+  "gemeinde_name": "Roggwil (TG)",
+  "total": 2.389,
+  "einwohner": 3059,
+  "biogasanlagen_landwirtschaft": 0.124
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "08432f4c36ea7f2e8d2bcb2944b7e18abaf78309",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.916,
+  "bfs_nr_gemeinde": "4436",
+  "gemeinde_name": "Romanshorn",
+  "total": 1.916,
+  "einwohner": 11114
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2d750ee1dd4219f36345a69c95ea6683adcc3092",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.305,
+  "bfs_nr_gemeinde": "4851",
+  "gemeinde_name": "Salenstein",
+  "total": 0.305,
+  "einwohner": 1318
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3865c80b35146ecea384fbfc75a2c50d7ca9bd10",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.311,
+  "bfs_nr_gemeinde": "4546",
+  "gemeinde_name": "Schlatt (TG)",
+  "total": 0.311,
+  "einwohner": 1698
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "dfc83c4612102043acdfc898ed2952f5b887041e",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.239,
+  "bfs_nr_gemeinde": "4446",
+  "gemeinde_name": "Sommeri",
+  "total": 0.239,
+  "einwohner": 572
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b6e4958a1009fdcb02d6b3ff126c10f5e04a5f55",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.261,
+  "bfs_nr_gemeinde": "4611",
+  "gemeinde_name": "Thundorf",
+  "total": 1.261,
+  "einwohner": 1436
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2cc513a0145a20fd07301da3cf2b769f5d04f869",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.267,
+  "bfs_nr_gemeinde": "4776",
+  "gemeinde_name": "Tobel-Tägerschen",
+  "total": 1.267,
+  "einwohner": 1601
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a66d05339aee1c7165d44b93a08e57b8a8d2d47a",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.965,
+  "bfs_nr_gemeinde": "4701",
+  "gemeinde_name": "Wäldi",
+  "total": 0.965,
+  "einwohner": 1061
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "706c51cc907144876fe72dc6069114905ab89051",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 2.295,
+  "bfs_nr_gemeinde": "4951",
+  "gemeinde_name": "Wigoltingen",
+  "total": 2.713,
+  "einwohner": 2447,
+  "biogasanlagen_landwirtschaft": 0.418
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4c45b64ef44813e22a7fba3787ace5219eaf0338",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 0.886,
+  "bfs_nr_gemeinde": "4786",
+  "gemeinde_name": "Wilen (TG)",
+  "total": 0.886,
+  "einwohner": 2512
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3f1231fb1ba562812b239651c85dac66389aabea",
+  "fields": {
+  "jahr": "2018",
+  "photovoltaik": 1.061,
+  "bfs_nr_gemeinde": "4791",
+  "gemeinde_name": "Wuppenau",
+  "total": 1.061,
+  "einwohner": 1111
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8fc24a306875bb031db71e8951110af87ecdea8e",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 3.436,
+  "bfs_nr_gemeinde": "4711",
+  "gemeinde_name": "Affeltrangen",
+  "total": 3.436,
+  "einwohner": 2558
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8359514b76a38dd44b72c366f32922cbc2873fa2",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.596,
+  "bfs_nr_gemeinde": "4723",
+  "gemeinde_name": "Braunau",
+  "total": 0.596,
+  "einwohner": 770
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ab17f86c996fd720551ddb0b58f09bba367b8480",
+  "fields": {
+  "wasserkraft": 12.982,
+  "jahr": "2017",
+  "photovoltaik": 1.198,
+  "bfs_nr_gemeinde": "4911",
+  "gemeinde_name": "Bürglen (TG)",
+  "total": 14.18,
+  "einwohner": 3775
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6ccadd729acf8a665eafc40a2070062d5d6da423",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.211,
+  "bfs_nr_gemeinde": "4545",
+  "gemeinde_name": "Diessenhofen",
+  "total": 1.211,
+  "einwohner": 3889
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e6e96e9e5479ef51d0081cbeff58ce0cbd8c6c1d",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.483,
+  "bfs_nr_gemeinde": "4411",
+  "gemeinde_name": "Egnach",
+  "total": 2.483,
+  "einwohner": 4692
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "23e64e228a773ec5ccde5b422c303a149afa4a2c",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.466,
+  "bfs_nr_gemeinde": "4646",
+  "gemeinde_name": "Ermatingen",
+  "total": 0.466,
+  "einwohner": 3371
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "221526e60d91f45c68a7d0e5462a2c97a862bb73",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.292,
+  "bfs_nr_gemeinde": "4561",
+  "gemeinde_name": "Felben-Wellhausen",
+  "total": 0.292,
+  "einwohner": 2790
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "da9127bae20b8000447bf237944ecf135579fc27",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.033,
+  "bfs_nr_gemeinde": "4651",
+  "gemeinde_name": "Gottlieben",
+  "total": 0.033,
+  "einwohner": 348
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2820c128f32c8a9ba320bf6ea289f5f964eb2db0",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.942,
+  "bfs_nr_gemeinde": "4811",
+  "gemeinde_name": "Herdern",
+  "total": 0.942,
+  "einwohner": 1028
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "96bcf08dcc448c327219e009e65a679e6a4288fc",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.049,
+  "bfs_nr_gemeinde": "4495",
+  "gemeinde_name": "Hohentannen",
+  "total": 1.049,
+  "einwohner": 602
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "67b301e9a112ba84f8c0003c24ebbed44c1604f4",
+  "fields": {
+  "wasserkraft": 10.757,
+  "jahr": "2017",
+  "photovoltaik": 0.748,
+  "bfs_nr_gemeinde": "4501",
+  "gemeinde_name": "Kradolf-Schönenberg",
+  "total": 11.505,
+  "einwohner": 3559
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "318de2e8d492450ce3cf7ec55f4ed938342452fe",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.289,
+  "bfs_nr_gemeinde": "4941",
+  "gemeinde_name": "Märstetten",
+  "total": 2.289,
+  "einwohner": 2808
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1185c511a841e3e8a36ff5161a2462f845d8b3df",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.297,
+  "bfs_nr_gemeinde": "4846",
+  "gemeinde_name": "Raperswilen",
+  "total": 0.297,
+  "einwohner": 394
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "20001c2bff9198abf0adc0f28d75848125cae1fe",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.613,
+  "bfs_nr_gemeinde": "4436",
+  "gemeinde_name": "Romanshorn",
+  "total": 1.613,
+  "einwohner": 10927
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9fab46ac0e74fe4ec75258ca19b5caaf5533053f",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.112,
+  "bfs_nr_gemeinde": "4441",
+  "gemeinde_name": "Salmsach",
+  "total": 0.112,
+  "einwohner": 1411
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a0716487d60888578fbbbbae8932f02e930feaee",
+  "fields": {
+  "wasserkraft": 0.394,
+  "jahr": "2017",
+  "photovoltaik": 1.227,
+  "bfs_nr_gemeinde": "4761",
+  "gemeinde_name": "Sirnach",
+  "total": 1.621,
+  "einwohner": 7703
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5c951c35e036321b4cda4533c39130d26c1b78e7",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.174,
+  "bfs_nr_gemeinde": "4446",
+  "gemeinde_name": "Sommeri",
+  "total": 0.174,
+  "einwohner": 565
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f2cfa2c6763ca42a2887dc49f9299ac7cce06147",
+  "fields": {
+  "wasserkraft": 0.019,
+  "jahr": "2017",
+  "photovoltaik": 1.14,
+  "bfs_nr_gemeinde": "4864",
+  "gemeinde_name": "Steckborn",
+  "total": 1.159,
+  "einwohner": 3765
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "75cebc3ce6b7c6531ea9370811d883147eec0513",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.067,
+  "bfs_nr_gemeinde": "4776",
+  "gemeinde_name": "Tobel-Tägerschen",
+  "total": 1.067,
+  "einwohner": 1592
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "625b9e57046cbd85c16354b638b4e99cc6df3695",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.584,
+  "bfs_nr_gemeinde": "4616",
+  "gemeinde_name": "Uesslingen-Buch",
+  "total": 0.584,
+  "einwohner": 1092
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "036b987126fb4cf2c89f8341da25d6f16de89673",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.158,
+  "bfs_nr_gemeinde": "4701",
+  "gemeinde_name": "Wäldi",
+  "total": 1.158,
+  "einwohner": 1049
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "01bb00daeea138bac49608b870ae8d6082050a49",
+  "fields": {
+  "wasserkraft": 0.328,
+  "jahr": "2017",
+  "photovoltaik": 0.346,
+  "bfs_nr_gemeinde": "4511",
+  "gemeinde_name": "Zihlschlacht-Sitterdorf",
+  "total": 0.674,
+  "einwohner": 2357
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3fb47e44177dbf535b416bdcef0465b6306dbc05",
+  "fields": {
+  "wasserkraft": 0.245,
+  "biogasanlagen_abwasser": 0.004,
+  "jahr": "2017",
+  "photovoltaik": 2.276,
+  "bfs_nr_gemeinde": "4551",
+  "gemeinde_name": "Aadorf",
+  "total": 2.525,
+  "einwohner": 8843
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d150a236ff82374ddb21f8174889462999d36a49",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.871,
+  "bfs_nr_gemeinde": "4641",
+  "gemeinde_name": "Altnau",
+  "total": 0.871,
+  "einwohner": 2206
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "af4fe651761fdd3ae4785e2be1c949b0554bf348",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.888,
+  "bfs_nr_gemeinde": "4891",
+  "gemeinde_name": "Berg (TG)",
+  "total": 2.548,
+  "einwohner": 3321,
+  "biogasanlagen_landwirtschaft": 0.655,
+  "wind": 0.005
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2ce24cb55fcf205b0b6d41ab199f80dcf0c8ec55",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.447,
+  "bfs_nr_gemeinde": "4716",
+  "gemeinde_name": "Bettwiesen",
+  "total": 0.447,
+  "einwohner": 1239
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "cc6ffdff511e6f5e040dfa0e0bf142f16b6f91b0",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.083,
+  "biomasse_holz": 3.088,
+  "bfs_nr_gemeinde": "4721",
+  "gemeinde_name": "Bichelsee-Balterswil",
+  "total": 4.171,
+  "einwohner": 2835
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "10cf298aa05c93012386f90000169aa8cb38a96c",
+  "fields": {
+  "wasserkraft": 3.993,
+  "biogasanlagen_abwasser": 1.292,
+  "jahr": "2017",
+  "photovoltaik": 1.249,
+  "bfs_nr_gemeinde": "4471",
+  "gemeinde_name": "Bischofszell",
+  "total": 6.534,
+  "einwohner": 5974
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ceac732ad7bb528c123da0a835877277ca42a506",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.711,
+  "bfs_nr_gemeinde": "4643",
+  "gemeinde_name": "Bottighofen",
+  "total": 0.711,
+  "einwohner": 2164
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6eacb44f332b9fe10956bd50d44928c9ab02f506",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.798,
+  "bfs_nr_gemeinde": "4921",
+  "gemeinde_name": "Bussnang",
+  "total": 0.798,
+  "einwohner": 2313
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "cdbbf79e2ce97aebc01c2faddda3672826f08077",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.058,
+  "bfs_nr_gemeinde": "4476",
+  "gemeinde_name": "Erlen",
+  "total": 2.058,
+  "einwohner": 3664
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "34a94cd06ed2010e9312748fdf231b1235387bc5",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.405,
+  "bfs_nr_gemeinde": "4806",
+  "gemeinde_name": "Eschenz",
+  "total": 0.405,
+  "einwohner": 1754
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4bc2c5f5fe79522e7187436986d8d75d0463c7ce",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.946,
+  "bfs_nr_gemeinde": "4726",
+  "gemeinde_name": "Fischingen",
+  "total": 2.21,
+  "einwohner": 2690,
+  "biogasanlagen_landwirtschaft": 0.264
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "83cdb821cf672466e2ac04bc385d0a8e9453d18f",
+  "fields": {
+  "wasserkraft": 2.046,
+  "biogasanlagen_abwasser": 1.158,
+  "jahr": "2017",
+  "photovoltaik": 8.187,
+  "bfs_nr_gemeinde": "4566",
+  "gemeinde_name": "Frauenfeld",
+  "total": 14.112,
+  "einwohner": 25297,
+  "biogasanlagen_landwirtschaft": 0.415,
+  "biogasanlagen_industrie": 2.306
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2b80b8fc3d1cf1d7595adfb43ab8c25bd4a878c2",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.688,
+  "bfs_nr_gemeinde": "4656",
+  "gemeinde_name": "Güttingen",
+  "total": 0.688,
+  "einwohner": 1604
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ec044be53a16044aa13c2cf7f4439140eb56104f",
+  "fields": {
+  "biogasanlagen_abwasser": 0.66,
+  "jahr": "2017",
+  "photovoltaik": 2.136,
+  "bfs_nr_gemeinde": "4416",
+  "gemeinde_name": "Hefenhofen",
+  "total": 2.796,
+  "einwohner": 1187
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "894ebec64daaddabfb4cdb2822bb552efc1ccf10",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.845,
+  "bfs_nr_gemeinde": "4421",
+  "gemeinde_name": "Horn",
+  "total": 0.845,
+  "einwohner": 2737
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ed8ce3da3b94323b5a3f84b61cdf2b60c4956b7b",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.346,
+  "bfs_nr_gemeinde": "4821",
+  "gemeinde_name": "Hüttwilen",
+  "total": 1.346,
+  "einwohner": 1709
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5e3a2754f3fbfff83412d4ee774d4d61af5e54b2",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.586,
+  "bfs_nr_gemeinde": "4426",
+  "gemeinde_name": "Kesswil",
+  "total": 0.586,
+  "einwohner": 999
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "188b3e29e25df1e67fe8e3ae85a62995c8151bf7",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.348,
+  "bfs_nr_gemeinde": "4671",
+  "gemeinde_name": "Kreuzlingen",
+  "total": 2.348,
+  "einwohner": 21795
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "61238f4cdcf728d5fd20bb552377b221a6e7c830",
+  "fields": {
+  "wasserkraft": 0.406,
+  "biogasanlagen_abwasser": 1.54,
+  "jahr": "2017",
+  "photovoltaik": 0.789,
+  "bfs_nr_gemeinde": "4591",
+  "gemeinde_name": "Matzingen",
+  "total": 2.735,
+  "einwohner": 2840
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c993a33210c13ecb34804a25b861515be4bae908",
+  "fields": {
+  "biogasanlagen_abwasser": 0.266,
+  "jahr": "2017",
+  "photovoltaik": 0.412,
+  "bfs_nr_gemeinde": "4691",
+  "gemeinde_name": "Münsterlingen",
+  "total": 0.678,
+  "einwohner": 3444
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "51ee07d2a64caaf89d83ed7966d88c72de2c6530",
+  "fields": {
+  "wasserkraft": 1.142,
+  "jahr": "2017",
+  "photovoltaik": 0.628,
+  "bfs_nr_gemeinde": "4841",
+  "gemeinde_name": "Pfyn",
+  "total": 1.77,
+  "einwohner": 1992
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "94eb1529ff055643271c7c9b2ef344e9f37c5bc5",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.28,
+  "bfs_nr_gemeinde": "4751",
+  "gemeinde_name": "Rickenbach (TG)",
+  "total": 0.28,
+  "einwohner": 2771
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f9f49e8eb2b7631df37317faf825d57223568eef",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.065,
+  "bfs_nr_gemeinde": "4431",
+  "gemeinde_name": "Roggwil (TG)",
+  "total": 2.195,
+  "einwohner": 3056,
+  "biogasanlagen_landwirtschaft": 0.13
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1dc2d2eb61d351a305422ee2df454352cd5bf7e2",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.27,
+  "bfs_nr_gemeinde": "4611",
+  "gemeinde_name": "Thundorf",
+  "total": 1.27,
+  "einwohner": 1451
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2fb220dd3fba489a1007c42f1c5b88be5e204945",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.524,
+  "bfs_nr_gemeinde": "4781",
+  "gemeinde_name": "Wängi",
+  "total": 3.078,
+  "einwohner": 4648,
+  "biogasanlagen_landwirtschaft": 0.554
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9d23026d7356a4563abbea8c8fb591c147c1cdf0",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.597,
+  "bfs_nr_gemeinde": "4621",
+  "gemeinde_name": "Warth-Weiningen",
+  "total": 0.597,
+  "einwohner": 1311
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a16e0f08a764a6282ab302678c6d07692e0042a5",
+  "fields": {
+  "wasserkraft": 8.7,
+  "biogasanlagen_abwasser": 1.256,
+  "jahr": "2017",
+  "kehricht": 41.327,
+  "photovoltaik": 3.9,
+  "bfs_nr_gemeinde": "4946",
+  "gemeinde_name": "Weinfelden",
+  "total": 55.183,
+  "einwohner": 11338
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ce9916e786fec4f1deb8d0d85d4e222fc001ea00",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.78,
+  "bfs_nr_gemeinde": "4786",
+  "gemeinde_name": "Wilen (TG)",
+  "total": 0.78,
+  "einwohner": 2496
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "981de9adcfba95830aab3918b43abe6e7b57b380",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 4.191,
+  "bfs_nr_gemeinde": "4881",
+  "gemeinde_name": "Amlikon-Bissegg",
+  "total": 5.24,
+  "einwohner": 1328,
+  "biogasanlagen_landwirtschaft": 1.049
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a9c43840b96a2a9fef2aa81d9d9edd1bd96ecad7",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 3.637,
+  "bfs_nr_gemeinde": "4461",
+  "gemeinde_name": "Amriswil",
+  "total": 3.637,
+  "einwohner": 13382
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3d09d27aa61876b07e5187e243fd7face9ef4c82",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 3.577,
+  "bfs_nr_gemeinde": "4401",
+  "gemeinde_name": "Arbon",
+  "total": 3.577,
+  "einwohner": 14430
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "19558cb1d103bf5d72a0888055e099747fcc41c1",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.752,
+  "bfs_nr_gemeinde": "4536",
+  "gemeinde_name": "Basadingen-Schlattingen",
+  "total": 1.752,
+  "einwohner": 1807
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "06cb20072dcc2a7278c8614558f160e4633cecb2",
+  "fields": {
+  "biogasanlagen_abwasser": 0.122,
+  "jahr": "2017",
+  "photovoltaik": 0.145,
+  "bfs_nr_gemeinde": "4801",
+  "gemeinde_name": "Berlingen",
+  "total": 0.267,
+  "einwohner": 907
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ee3f34602ee8d2f49ebe8783217fdd580168a0b0",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.615,
+  "bfs_nr_gemeinde": "4901",
+  "gemeinde_name": "Birwinken",
+  "total": 0.615,
+  "einwohner": 1350
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "57f2e064566809431247069470c38c8f3774b924",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.262,
+  "bfs_nr_gemeinde": "4406",
+  "gemeinde_name": "Dozwil",
+  "total": 0.262,
+  "einwohner": 704
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "70a0552427c0aa08fef1372eeb62b84d9c260ad5",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.481,
+  "biomasse_holz": 0.078,
+  "bfs_nr_gemeinde": "4724",
+  "gemeinde_name": "Eschlikon",
+  "total": 2.714,
+  "einwohner": 4300,
+  "biogasanlagen_landwirtschaft": 1.155
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "752a470e360a9d2f02ed0b5c0e39c3ffa58325c1",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.563,
+  "bfs_nr_gemeinde": "4571",
+  "gemeinde_name": "Gachnang",
+  "total": 1.563,
+  "einwohner": 4269
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "967b2bac62a841cc98f1172489d8a1bae39bdd13",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.207,
+  "bfs_nr_gemeinde": "4486",
+  "gemeinde_name": "Hauptwil-Gottshaus",
+  "total": 1.207,
+  "einwohner": 1938
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9558d620da535f2b84c3843967a69ec98a423f5c",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.863,
+  "bfs_nr_gemeinde": "4816",
+  "gemeinde_name": "Homburg",
+  "total": 1.863,
+  "einwohner": 1531
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b9e35df7b5394f863a6d469c1a67622f398c43ea",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.571,
+  "bfs_nr_gemeinde": "4590",
+  "gemeinde_name": "Hüttlingen",
+  "total": 0.571,
+  "einwohner": 834
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "39d033e05e194e569b78502878fb63caab994efa",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.48,
+  "bfs_nr_gemeinde": "4666",
+  "gemeinde_name": "Kemmental",
+  "total": 2.48,
+  "einwohner": 2482
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5fcb8c8d82c79741587bd834e95ad2e805f8534a",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.622,
+  "bfs_nr_gemeinde": "4681",
+  "gemeinde_name": "Langrickenbach",
+  "total": 0.622,
+  "einwohner": 1307
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4b2a75a4607b8c88f731528a948d7091ed80632c",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.499,
+  "bfs_nr_gemeinde": "4683",
+  "gemeinde_name": "Lengwil",
+  "total": 0.499,
+  "einwohner": 1709
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "713819d4558db341734a9a62a89305f4ecc5950f",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.489,
+  "bfs_nr_gemeinde": "4741",
+  "gemeinde_name": "Lommis",
+  "total": 0.489,
+  "einwohner": 1223
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3d87fd8d246a03e72f50427868616951d548b066",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.065,
+  "bfs_nr_gemeinde": "4826",
+  "gemeinde_name": "Mammern",
+  "total": 0.065,
+  "einwohner": 648
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "23a583be24a62cd479f1535e1d7a264a8196ec7a",
+  "fields": {
+  "wasserkraft": 1.342,
+  "jahr": "2017",
+  "photovoltaik": 0.901,
+  "bfs_nr_gemeinde": "4831",
+  "gemeinde_name": "Müllheim",
+  "total": 2.243,
+  "einwohner": 2964
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c613172740446aa1702c80fc8a2e7ee0a724f9df",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.354,
+  "bfs_nr_gemeinde": "4746",
+  "gemeinde_name": "Münchwilen (TG)",
+  "total": 1.354,
+  "einwohner": 5538
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a57af85ab0466a1916870fc20cbd3e15813649d7",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.289,
+  "bfs_nr_gemeinde": "4601",
+  "gemeinde_name": "Neunforn",
+  "total": 0.289,
+  "einwohner": 1004
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0242c43d61dc33362fd9e91b40b19e4005681d32",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.259,
+  "bfs_nr_gemeinde": "4851",
+  "gemeinde_name": "Salenstein",
+  "total": 0.259,
+  "einwohner": 1271
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e6aecff26c3c2bd42a80c7fbd9846a8982537c2a",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.295,
+  "bfs_nr_gemeinde": "4546",
+  "gemeinde_name": "Schlatt (TG)",
+  "total": 0.295,
+  "einwohner": 1669
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "06300c481e6a773175aa3a534e66bf277c0e7dba",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.548,
+  "bfs_nr_gemeinde": "4756",
+  "gemeinde_name": "Schönholzerswilen",
+  "total": 0.548,
+  "einwohner": 848
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "60aa03b9141d94d02a04a9f5d08ee4cfd539a801",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.594,
+  "bfs_nr_gemeinde": "4606",
+  "gemeinde_name": "Stettfurt",
+  "total": 0.594,
+  "einwohner": 1213
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "594b64404d0554cb508ba651095baf86e2b3d1bd",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 1.102,
+  "bfs_nr_gemeinde": "4506",
+  "gemeinde_name": "Sulgen",
+  "total": 1.102,
+  "einwohner": 3744
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "08336c1dfa348546e076fbe729a6a26ae963bcb6",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 4.133,
+  "bfs_nr_gemeinde": "4696",
+  "gemeinde_name": "Tägerwilen",
+  "total": 4.133,
+  "einwohner": 4602
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1104314a4ffc2689e8bf3ed886fc2da0867f7cdc",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.435,
+  "bfs_nr_gemeinde": "4451",
+  "gemeinde_name": "Uttwil",
+  "total": 0.435,
+  "einwohner": 1852
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "543c9697ddd44775ab9654a0a253f141006122f3",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.398,
+  "bfs_nr_gemeinde": "4871",
+  "gemeinde_name": "Wagenhausen",
+  "total": 0.398,
+  "einwohner": 1647
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c1cd18c596ae7bf8d44b470ef14d293376cb04e0",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 2.073,
+  "bfs_nr_gemeinde": "4951",
+  "gemeinde_name": "Wigoltingen",
+  "total": 2.526,
+  "einwohner": 2429,
+  "biogasanlagen_landwirtschaft": 0.453
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "edd32529415d7d23bb12c574d71b9b2964f54415",
+  "fields": {
+  "jahr": "2017",
+  "photovoltaik": 0.964,
+  "bfs_nr_gemeinde": "4791",
+  "gemeinde_name": "Wuppenau",
+  "total": 0.964,
+  "einwohner": 1127
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9ec3a8232ab64315494c35c903319308850b7211",
+  "fields": {
+  "wasserkraft": 0.356,
+  "biogasanlagen_abwasser": 0.003,
+  "jahr": "2016",
+  "photovoltaik": 1.955,
+  "bfs_nr_gemeinde": "4551",
+  "gemeinde_name": "Aadorf",
+  "total": 2.314,
+  "einwohner": 8838
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5b385f28d7a213bbe057c7aa1418712cf3ba6521",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 3.104,
+  "bfs_nr_gemeinde": "4461",
+  "gemeinde_name": "Amriswil",
+  "total": 3.104,
+  "einwohner": 13293
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "73f0ebe8d1429f957432b4f359f5e8eb5bfb3b07",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.028,
+  "bfs_nr_gemeinde": "4545",
+  "gemeinde_name": "Diessenhofen",
+  "total": 1.028,
+  "einwohner": 3745
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e06313036da21b6ed1bb300adb6f34c17002007b",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 2.024,
+  "bfs_nr_gemeinde": "4411",
+  "gemeinde_name": "Egnach",
+  "total": 2.024,
+  "einwohner": 4681
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "cfb58ca9e08259fe56281d3c1320546a35f520f9",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.328,
+  "bfs_nr_gemeinde": "4646",
+  "gemeinde_name": "Ermatingen",
+  "total": 0.328,
+  "einwohner": 3302
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4caf26a2549d62a6f6a58f3ae2779c88a964032f",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.026,
+  "bfs_nr_gemeinde": "4651",
+  "gemeinde_name": "Gottlieben",
+  "total": 0.026,
+  "einwohner": 323
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "abf0d22468ab0e9b5c3451b544d0c8a85a461ed0",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.476,
+  "bfs_nr_gemeinde": "4656",
+  "gemeinde_name": "Güttingen",
+  "total": 0.476,
+  "einwohner": 1560
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e11e5fb233bfc83478a7bc78fb2868af0548347f",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.075,
+  "bfs_nr_gemeinde": "4486",
+  "gemeinde_name": "Hauptwil-Gottshaus",
+  "total": 1.075,
+  "einwohner": 1917
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "84203ec5b8f77fbf18d429500f1d416cc5fc6a70",
+  "fields": {
+  "biogasanlagen_abwasser": 0.685,
+  "jahr": "2016",
+  "photovoltaik": 1.656,
+  "bfs_nr_gemeinde": "4416",
+  "gemeinde_name": "Hefenhofen",
+  "total": 2.341,
+  "einwohner": 1243
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1af2aa08621f477bf4637139633abf228f882912",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.457,
+  "bfs_nr_gemeinde": "4811",
+  "gemeinde_name": "Herdern",
+  "total": 0.457,
+  "einwohner": 1023
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "00af8b41bd5ceb362d99ff3c442d7ff0cd5c66f4",
+  "fields": {
+  "wasserkraft": 14.319,
+  "jahr": "2016",
+  "photovoltaik": 0.592,
+  "bfs_nr_gemeinde": "4501",
+  "gemeinde_name": "Kradolf-Schönenberg",
+  "total": 14.911,
+  "einwohner": 3529
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e8bea03d5d9fb6832d5d73db723268336d306566",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.906,
+  "bfs_nr_gemeinde": "4671",
+  "gemeinde_name": "Kreuzlingen",
+  "total": 1.906,
+  "einwohner": 21537
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "400be4b19ceff7d344898ce1a5b1c99c214215d1",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.266,
+  "bfs_nr_gemeinde": "4741",
+  "gemeinde_name": "Lommis",
+  "total": 0.266,
+  "einwohner": 1215
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e2cf5493400476c68b563237fe2732597eed48aa",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.062,
+  "bfs_nr_gemeinde": "4826",
+  "gemeinde_name": "Mammern",
+  "total": 0.062,
+  "einwohner": 650
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a0b9c0768dbaad1486395bda007f811598522a7d",
+  "fields": {
+  "biogasanlagen_abwasser": 0.27,
+  "jahr": "2016",
+  "photovoltaik": 0.351,
+  "bfs_nr_gemeinde": "4691",
+  "gemeinde_name": "Münsterlingen",
+  "total": 0.621,
+  "einwohner": 3328
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "403436b8fd34873b1b96938cc52f1fdbc30d6f23",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.287,
+  "bfs_nr_gemeinde": "4846",
+  "gemeinde_name": "Raperswilen",
+  "total": 0.287,
+  "einwohner": 391
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4ca6fe9377df1084a6dd3db3c8d3d45bac692e18",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.309,
+  "bfs_nr_gemeinde": "4436",
+  "gemeinde_name": "Romanshorn",
+  "total": 1.309,
+  "einwohner": 10770
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e66d86fa42f9a4c3a7c0d033e7490acc3b3bc595",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.027,
+  "bfs_nr_gemeinde": "4441",
+  "gemeinde_name": "Salmsach",
+  "total": 0.027,
+  "einwohner": 1451
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e399c7e44d99746ae709d021f5e55f5b64d78798",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.461,
+  "bfs_nr_gemeinde": "4756",
+  "gemeinde_name": "Schönholzerswilen",
+  "total": 0.461,
+  "einwohner": 839
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c3e58b6af582983b840b1bcef466bb549f57216c",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.115,
+  "bfs_nr_gemeinde": "4446",
+  "gemeinde_name": "Sommeri",
+  "total": 0.115,
+  "einwohner": 549
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5d52a230f3ce45998fe019fec9e6be0b9f3f054a",
+  "fields": {
+  "wasserkraft": 0.03,
+  "jahr": "2016",
+  "photovoltaik": 0.81,
+  "bfs_nr_gemeinde": "4864",
+  "gemeinde_name": "Steckborn",
+  "total": 0.84,
+  "einwohner": 3740
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a1686c7871f2e668cd3147eac5069f3263ddbc1a",
+  "fields": {
+  "wasserkraft": 0.341,
+  "jahr": "2016",
+  "photovoltaik": 0.237,
+  "bfs_nr_gemeinde": "4511",
+  "gemeinde_name": "Zihlschlacht-Sitterdorf",
+  "total": 0.578,
+  "einwohner": 2267
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2568a18ad221f14c5c5d0d9703d8601c8d5ab970",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 2.774,
+  "bfs_nr_gemeinde": "4711",
+  "gemeinde_name": "Affeltrangen",
+  "total": 2.774,
+  "einwohner": 2513
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ca13d5b17ed15027c86947324d31f5c123fb9a94",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.641,
+  "bfs_nr_gemeinde": "4641",
+  "gemeinde_name": "Altnau",
+  "total": 0.641,
+  "einwohner": 2161
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1dbb008f8c2f64b1506c6198f8f5005249787b1c",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.69,
+  "bfs_nr_gemeinde": "4891",
+  "gemeinde_name": "Berg (TG)",
+  "total": 2.231,
+  "einwohner": 3301,
+  "biogasanlagen_landwirtschaft": 0.536,
+  "wind": 0.005
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f14e67cc66bd1d45df0ccb993aa462dc15588e8f",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.929,
+  "biomasse_holz": 3.085,
+  "bfs_nr_gemeinde": "4721",
+  "gemeinde_name": "Bichelsee-Balterswil",
+  "total": 4.014,
+  "einwohner": 2820
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ebf98d8ec67c487e9dc85707002131129f026609",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.578,
+  "bfs_nr_gemeinde": "4643",
+  "gemeinde_name": "Bottighofen",
+  "total": 0.578,
+  "einwohner": 2180
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "24dadef638633d5a02a487dbbd1bac8ca81ed649",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.447,
+  "bfs_nr_gemeinde": "4723",
+  "gemeinde_name": "Braunau",
+  "total": 0.447,
+  "einwohner": 765
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "30990d3c46f739ef40b9edb910ad10d9c7914869",
+  "fields": {
+  "wasserkraft": 9.59,
+  "jahr": "2016",
+  "photovoltaik": 0.815,
+  "bfs_nr_gemeinde": "4911",
+  "gemeinde_name": "Bürglen (TG)",
+  "total": 10.405,
+  "einwohner": 3741
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e944df246748ccd759f0a4a483a94d24336a6e3b",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.191,
+  "bfs_nr_gemeinde": "4406",
+  "gemeinde_name": "Dozwil",
+  "total": 0.191,
+  "einwohner": 727
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a067d979e0311beb63983ed495ae7bdc3a7a60f2",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.361,
+  "bfs_nr_gemeinde": "4806",
+  "gemeinde_name": "Eschenz",
+  "total": 0.361,
+  "einwohner": 1721
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e3a5109cc0235ef69e997c4c7078a3d0d1feaf15",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.602,
+  "bfs_nr_gemeinde": "4726",
+  "gemeinde_name": "Fischingen",
+  "total": 1.801,
+  "einwohner": 2680,
+  "biogasanlagen_landwirtschaft": 0.199
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "25ce3ccb54ace3a260e245db84b74206043caba9",
+  "fields": {
+  "wasserkraft": 3.284,
+  "biogasanlagen_abwasser": 1.405,
+  "jahr": "2016",
+  "photovoltaik": 6.565,
+  "bfs_nr_gemeinde": "4566",
+  "gemeinde_name": "Frauenfeld",
+  "total": 13.649,
+  "einwohner": 25058,
+  "biogasanlagen_landwirtschaft": 0.356,
+  "biogasanlagen_industrie": 2.039
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "cb9688e68684ad4a2feae6e05bc50a1ff9e21513",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.309,
+  "bfs_nr_gemeinde": "4571",
+  "gemeinde_name": "Gachnang",
+  "total": 1.309,
+  "einwohner": 4211
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "77ba9981123b48090f657af2436efad150696181",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.94,
+  "bfs_nr_gemeinde": "4495",
+  "gemeinde_name": "Hohentannen",
+  "total": 0.94,
+  "einwohner": 597
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2eb35c5be2f045ef0d65e7e82c587db3834249ca",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.774,
+  "bfs_nr_gemeinde": "4421",
+  "gemeinde_name": "Horn",
+  "total": 0.774,
+  "einwohner": 2600
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2b58fa758616622a5f7a860390ec5546c1c18b4b",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.529,
+  "bfs_nr_gemeinde": "4426",
+  "gemeinde_name": "Kesswil",
+  "total": 0.529,
+  "einwohner": 992
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "88d1ba98d39e06e0f17880f7a2ff7c6b99aae989",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.93,
+  "bfs_nr_gemeinde": "4941",
+  "gemeinde_name": "Märstetten",
+  "total": 1.93,
+  "einwohner": 2784
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6b351dccf9ea14576088c0d25097287d5dee8295",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.269,
+  "bfs_nr_gemeinde": "4601",
+  "gemeinde_name": "Neunforn",
+  "total": 0.269,
+  "einwohner": 986
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d0f634728d9cc9e8ec660441a6a0ec8a82a65fec",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.214,
+  "bfs_nr_gemeinde": "4851",
+  "gemeinde_name": "Salenstein",
+  "total": 0.214,
+  "einwohner": 1285
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "fb4179ce894fc5fcc86f1c90efe68879e8280ca4",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.232,
+  "bfs_nr_gemeinde": "4546",
+  "gemeinde_name": "Schlatt (TG)",
+  "total": 0.232,
+  "einwohner": 1657
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "96ba675954cd6ea0b5bcd980045327cb57e40601",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.425,
+  "bfs_nr_gemeinde": "4606",
+  "gemeinde_name": "Stettfurt",
+  "total": 0.425,
+  "einwohner": 1201
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "da4f6469944ad143d948d421e6fa98cee14579fe",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.916,
+  "bfs_nr_gemeinde": "4506",
+  "gemeinde_name": "Sulgen",
+  "total": 0.916,
+  "einwohner": 3703
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "dc4e568d39d1377c504d8b7c5fbd186d30d09672",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.719,
+  "bfs_nr_gemeinde": "4776",
+  "gemeinde_name": "Tobel-Tägerschen",
+  "total": 0.719,
+  "einwohner": 1594
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7c9bb46033727f450ce4b6dd0eb0e52ea3ff52af",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.36,
+  "bfs_nr_gemeinde": "4451",
+  "gemeinde_name": "Uttwil",
+  "total": 0.36,
+  "einwohner": 1855
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "61cdbd1a1f410af561d5f22789a65bf986f2b260",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.304,
+  "bfs_nr_gemeinde": "4871",
+  "gemeinde_name": "Wagenhausen",
+  "total": 0.304,
+  "einwohner": 1654
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "54ad8e964b04cf8de8044982ed18204051407a3a",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.506,
+  "bfs_nr_gemeinde": "4701",
+  "gemeinde_name": "Wäldi",
+  "total": 0.506,
+  "einwohner": 1050
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ffca58eefe5ea0c23fc2e476d8815883e56111ef",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 2.352,
+  "bfs_nr_gemeinde": "4781",
+  "gemeinde_name": "Wängi",
+  "total": 2.825,
+  "einwohner": 4614,
+  "biogasanlagen_landwirtschaft": 0.473
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "407ae117a7e2599c70ed7a4bd37f7fee10060dd1",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.561,
+  "bfs_nr_gemeinde": "4786",
+  "gemeinde_name": "Wilen (TG)",
+  "total": 0.561,
+  "einwohner": 2482
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3e9d56fbda01cf45907b45cb914777e7063ca56e",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.703,
+  "bfs_nr_gemeinde": "4791",
+  "gemeinde_name": "Wuppenau",
+  "total": 0.703,
+  "einwohner": 1133
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8ebaec2a60e0ea8f2d2bb7dcaf44c170ca32b14e",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 3.831,
+  "bfs_nr_gemeinde": "4881",
+  "gemeinde_name": "Amlikon-Bissegg",
+  "total": 4.707,
+  "einwohner": 1301,
+  "biogasanlagen_landwirtschaft": 0.876
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d4d4b2738b49f7b4e2e8172e73c166f3cfa57705",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 3.022,
+  "bfs_nr_gemeinde": "4401",
+  "gemeinde_name": "Arbon",
+  "total": 3.022,
+  "einwohner": 14256
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "806b17911f2cfc52bd8b747cea42fce4362373a3",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.88,
+  "bfs_nr_gemeinde": "4536",
+  "gemeinde_name": "Basadingen-Schlattingen",
+  "total": 0.88,
+  "einwohner": 1811
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0825e550fcf9437f901a362667093d0672f04f51",
+  "fields": {
+  "biogasanlagen_abwasser": 0.121,
+  "jahr": "2016",
+  "photovoltaik": 0.135,
+  "bfs_nr_gemeinde": "4801",
+  "gemeinde_name": "Berlingen",
+  "total": 0.256,
+  "einwohner": 887
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d095d8eeaa096c3faa774d0cd56858732d373d00",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.313,
+  "bfs_nr_gemeinde": "4716",
+  "gemeinde_name": "Bettwiesen",
+  "total": 0.313,
+  "einwohner": 1172
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "34aa1916c9c9472a277a7a1fb2f0361193a251ca",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.482,
+  "bfs_nr_gemeinde": "4901",
+  "gemeinde_name": "Birwinken",
+  "total": 0.482,
+  "einwohner": 1337
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8ecce6d854717127aa3de7fa35fd7d901dc8e753",
+  "fields": {
+  "wasserkraft": 4.047,
+  "biogasanlagen_abwasser": 1.287,
+  "jahr": "2016",
+  "photovoltaik": 1.064,
+  "bfs_nr_gemeinde": "4471",
+  "gemeinde_name": "Bischofszell",
+  "total": 6.398,
+  "einwohner": 5923
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "69106a73f23087eaf9412d47dafa221754bafddf",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.683,
+  "bfs_nr_gemeinde": "4921",
+  "gemeinde_name": "Bussnang",
+  "total": 0.683,
+  "einwohner": 2261
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "443d2d4ea4bb0c7df054ee84727e27c91b7c79fe",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.131,
+  "bfs_nr_gemeinde": "4476",
+  "gemeinde_name": "Erlen",
+  "total": 1.131,
+  "einwohner": 3636
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d8523e3e6de9b28596e89d905f6918da74636dac",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.318,
+  "biomasse_holz": 0.051,
+  "bfs_nr_gemeinde": "4724",
+  "gemeinde_name": "Eschlikon",
+  "total": 2.539,
+  "einwohner": 4296,
+  "biogasanlagen_landwirtschaft": 1.17
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c107356720378564ea204b7c50e5078b8ed65f45",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.197,
+  "bfs_nr_gemeinde": "4561",
+  "gemeinde_name": "Felben-Wellhausen",
+  "total": 0.197,
+  "einwohner": 2743
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "eb07b642a8c5a7616e315a44db51d1dd83806614",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.547,
+  "bfs_nr_gemeinde": "4816",
+  "gemeinde_name": "Homburg",
+  "total": 1.547,
+  "einwohner": 1537
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4b02d61664f398affdba121d42faca6c6218f1a3",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.462,
+  "bfs_nr_gemeinde": "4590",
+  "gemeinde_name": "Hüttlingen",
+  "total": 0.462,
+  "einwohner": 837
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0cdc0e2fb34c3d484302f95a86f4129fcb296fcc",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.282,
+  "bfs_nr_gemeinde": "4821",
+  "gemeinde_name": "Hüttwilen",
+  "total": 1.282,
+  "einwohner": 1701
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1d163b077ccdc8d9930a8c78f34af156bfef93b5",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 2.206,
+  "bfs_nr_gemeinde": "4666",
+  "gemeinde_name": "Kemmental",
+  "total": 2.206,
+  "einwohner": 2453
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "20d696e24d87080c116ae64a44c6384b4ad553dd",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.443,
+  "bfs_nr_gemeinde": "4681",
+  "gemeinde_name": "Langrickenbach",
+  "total": 0.443,
+  "einwohner": 1279
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c19c92c62d9a94fb0cd9cb86cf12e128a731455c",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.426,
+  "bfs_nr_gemeinde": "4683",
+  "gemeinde_name": "Lengwil",
+  "total": 0.426,
+  "einwohner": 1682
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5a851d0801ae589766c6972dd3a13d1957143df1",
+  "fields": {
+  "wasserkraft": 0.464,
+  "biogasanlagen_abwasser": 1.453,
+  "jahr": "2016",
+  "photovoltaik": 0.545,
+  "bfs_nr_gemeinde": "4591",
+  "gemeinde_name": "Matzingen",
+  "total": 2.462,
+  "einwohner": 2675
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f0bfef2f447c6d32263c8cdcaf1ba9be59bc142e",
+  "fields": {
+  "wasserkraft": 1.392,
+  "jahr": "2016",
+  "photovoltaik": 0.69,
+  "bfs_nr_gemeinde": "4831",
+  "gemeinde_name": "Müllheim",
+  "total": 2.082,
+  "einwohner": 2930
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "cb85c529550aa5c746e5c5f98b2ebaa856200cc9",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.086,
+  "bfs_nr_gemeinde": "4746",
+  "gemeinde_name": "Münchwilen (TG)",
+  "total": 1.086,
+  "einwohner": 5353
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "af478bc77203f616196470a7d21ad01e0ca3481c",
+  "fields": {
+  "wasserkraft": 1.95,
+  "jahr": "2016",
+  "photovoltaik": 0.474,
+  "bfs_nr_gemeinde": "4841",
+  "gemeinde_name": "Pfyn",
+  "total": 2.424,
+  "einwohner": 1943
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "45c1790453cf8c485ca19d472017c34806de0f68",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.221,
+  "bfs_nr_gemeinde": "4751",
+  "gemeinde_name": "Rickenbach (TG)",
+  "total": 0.221,
+  "einwohner": 2768
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b0b96b96bbb913e4398c8b96195e3f3e8289b4dd",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.479,
+  "bfs_nr_gemeinde": "4431",
+  "gemeinde_name": "Roggwil (TG)",
+  "total": 1.577,
+  "einwohner": 3050,
+  "biogasanlagen_landwirtschaft": 0.098
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e0118bf7f6925af229aeaf8e7157ca9820b86b4e",
+  "fields": {
+  "wasserkraft": 0.44,
+  "jahr": "2016",
+  "photovoltaik": 0.953,
+  "bfs_nr_gemeinde": "4761",
+  "gemeinde_name": "Sirnach",
+  "total": 1.393,
+  "einwohner": 7697
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "bf470d63742bb8854115f783eec399b5a71ec2bf",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 2.735,
+  "bfs_nr_gemeinde": "4696",
+  "gemeinde_name": "Tägerwilen",
+  "total": 2.735,
+  "einwohner": 4510
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3919b31ad8702081c9cf82050ce288a017de0258",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.983,
+  "bfs_nr_gemeinde": "4611",
+  "gemeinde_name": "Thundorf",
+  "total": 0.983,
+  "einwohner": 1459
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "813742741a09a8b1836e07102f3987967d39f60c",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.505,
+  "bfs_nr_gemeinde": "4616",
+  "gemeinde_name": "Uesslingen-Buch",
+  "total": 0.505,
+  "einwohner": 1075
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6f486406522fcd6d1553bed811d2c8039a685987",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 0.499,
+  "bfs_nr_gemeinde": "4621",
+  "gemeinde_name": "Warth-Weiningen",
+  "total": 0.499,
+  "einwohner": 1252
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "414911609206582e2b05b8c25b5d5c6d71b16a35",
+  "fields": {
+  "wasserkraft": 6.413,
+  "biogasanlagen_abwasser": 0.747,
+  "jahr": "2016",
+  "kehricht": 43.513,
+  "photovoltaik": 2.584,
+  "bfs_nr_gemeinde": "4946",
+  "gemeinde_name": "Weinfelden",
+  "total": 53.257,
+  "einwohner": 11241
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "fa513b4d2632ebda6a9b5400d11e6660c7a40fb3",
+  "fields": {
+  "jahr": "2016",
+  "photovoltaik": 1.36,
+  "bfs_nr_gemeinde": "4951",
+  "gemeinde_name": "Wigoltingen",
+  "total": 1.733,
+  "einwohner": 2410,
+  "biogasanlagen_landwirtschaft": 0.373
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f68eebebe772ebd326cae98052c7a43096d7dc42",
+  "fields": {
+  "wasserkraft": 0.258,
+  "biogasanlagen_abwasser": 0.002,
+  "jahr": "2015",
+  "photovoltaik": 1.465,
+  "bfs_nr_gemeinde": "4551",
+  "gemeinde_name": "Aadorf",
+  "total": 1.725,
+  "einwohner": 8793
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f90ef00603033da4a5f9beeeddf96efb9553c49c",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 3.611,
+  "bfs_nr_gemeinde": "4881",
+  "gemeinde_name": "Amlikon-Bissegg",
+  "total": 4.559,
+  "einwohner": 1320,
+  "biogasanlagen_landwirtschaft": 0.948
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8c19d2dd58db604d4a76e14a5cc582fd49cdc928",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 2.303,
+  "bfs_nr_gemeinde": "4401",
+  "gemeinde_name": "Arbon",
+  "total": 2.303,
+  "einwohner": 14184
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a034c439c9cb6de6d50bd61c0abdbc000fa4ec37",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 2.055,
+  "bfs_nr_gemeinde": "4891",
+  "gemeinde_name": "Berg (TG)",
+  "total": 2.606,
+  "einwohner": 3299,
+  "biogasanlagen_landwirtschaft": 0.55,
+  "wind": 0.001
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7e7fd12eb719c5c2cc71a3158b70dde75b187129",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.307,
+  "bfs_nr_gemeinde": "4723",
+  "gemeinde_name": "Braunau",
+  "total": 0.307,
+  "einwohner": 753
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9b2f9df888b72a4591af26f3b0426a1cd253628b",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.67,
+  "bfs_nr_gemeinde": "4921",
+  "gemeinde_name": "Bussnang",
+  "total": 0.67,
+  "einwohner": 2262
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "82fe3736d79ea18ce69352f9e395a4b5ae038dca",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.16,
+  "bfs_nr_gemeinde": "4406",
+  "gemeinde_name": "Dozwil",
+  "total": 0.16,
+  "einwohner": 681
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "71b98ca45352517757e566cbb56a3d9111798261",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.985,
+  "bfs_nr_gemeinde": "4476",
+  "gemeinde_name": "Erlen",
+  "total": 0.985,
+  "einwohner": 3608
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "fc3d923f17f70b94da01f99f62b4619a911f9a6e",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.081,
+  "bfs_nr_gemeinde": "4561",
+  "gemeinde_name": "Felben-Wellhausen",
+  "total": 0.081,
+  "einwohner": 2686
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5e5c7654a85b36820dacad73f5aa3f008c56e65d",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.553,
+  "bfs_nr_gemeinde": "4726",
+  "gemeinde_name": "Fischingen",
+  "total": 1.59,
+  "einwohner": 2638,
+  "biogasanlagen_landwirtschaft": 0.037
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9872f5d8c5d21e15ee54adc1d0cff06703eec9eb",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.372,
+  "bfs_nr_gemeinde": "4811",
+  "gemeinde_name": "Herdern",
+  "total": 0.372,
+  "einwohner": 1011
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "85286f0b10f9fbeaf8d3fb1d5c493cadc7d9b08e",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.449,
+  "bfs_nr_gemeinde": "4426",
+  "gemeinde_name": "Kesswil",
+  "total": 0.449,
+  "einwohner": 997
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "021a21a2499c575cef970e5103a0b2fd70161cd3",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.207,
+  "bfs_nr_gemeinde": "4741",
+  "gemeinde_name": "Lommis",
+  "total": 0.207,
+  "einwohner": 1225
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a3395b9f2267323ccc4bb80d5e9cea509327e336",
+  "fields": {
+  "wasserkraft": 0.389,
+  "biogasanlagen_abwasser": 0.679,
+  "jahr": "2015",
+  "photovoltaik": 0.453,
+  "bfs_nr_gemeinde": "4591",
+  "gemeinde_name": "Matzingen",
+  "total": 1.521,
+  "einwohner": 2618
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7ac1805ea656e3c94c5f9dcfd52b747a7bb3b32a",
+  "fields": {
+  "wasserkraft": 1.239,
+  "jahr": "2015",
+  "photovoltaik": 0.577,
+  "bfs_nr_gemeinde": "4831",
+  "gemeinde_name": "Müllheim",
+  "total": 1.816,
+  "einwohner": 2879
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0fb058b219a8da0beeca6325bf90f08e82cda5d6",
+  "fields": {
+  "biogasanlagen_abwasser": 0.282,
+  "jahr": "2015",
+  "photovoltaik": 0.313,
+  "bfs_nr_gemeinde": "4691",
+  "gemeinde_name": "Münsterlingen",
+  "total": 0.595,
+  "einwohner": 3187
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ad4a9437173b63814b47f9ce14c0b41c16d1dbf2",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.265,
+  "bfs_nr_gemeinde": "4601",
+  "gemeinde_name": "Neunforn",
+  "total": 0.265,
+  "einwohner": 957
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b04a120316a0ec6f3f99e84623f472e37b797e4e",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.142,
+  "bfs_nr_gemeinde": "4751",
+  "gemeinde_name": "Rickenbach (TG)",
+  "total": 0.142,
+  "einwohner": 2766
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "99aa6b97b517a6a89c020c7b15b151b28ebea664",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.018,
+  "bfs_nr_gemeinde": "4441",
+  "gemeinde_name": "Salmsach",
+  "total": 0.018,
+  "einwohner": 1402
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "44d86e21405e99e1d29861fbb9730650a2297d86",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.163,
+  "bfs_nr_gemeinde": "4546",
+  "gemeinde_name": "Schlatt (TG)",
+  "total": 0.163,
+  "einwohner": 1647
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "639ecfbf272d31574f09572aff5bbd33cd684352",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.427,
+  "bfs_nr_gemeinde": "4616",
+  "gemeinde_name": "Uesslingen-Buch",
+  "total": 0.427,
+  "einwohner": 1086
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c959940df9f2f572c425b9aa4c3e044d5972f775",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.379,
+  "bfs_nr_gemeinde": "4451",
+  "gemeinde_name": "Uttwil",
+  "total": 0.379,
+  "einwohner": 1830
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8a75436be4315be589d138c739e26fe95d6a7ab4",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.574,
+  "bfs_nr_gemeinde": "4701",
+  "gemeinde_name": "Wäldi",
+  "total": 0.574,
+  "einwohner": 1037
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1ea425bc6a6adbe829161f2ba466e3d4a0f01461",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 2.334,
+  "bfs_nr_gemeinde": "4781",
+  "gemeinde_name": "Wängi",
+  "total": 2.7,
+  "einwohner": 4576,
+  "biogasanlagen_landwirtschaft": 0.366
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6e5a4235f06887bccccddba24306bf532d2ac78f",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.523,
+  "bfs_nr_gemeinde": "4621",
+  "gemeinde_name": "Warth-Weiningen",
+  "total": 0.523,
+  "einwohner": 1238
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "327a0e66fb43094a2c00e454d62e376f7a5872c5",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.691,
+  "bfs_nr_gemeinde": "4641",
+  "gemeinde_name": "Altnau",
+  "total": 0.691,
+  "einwohner": 2148
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "604762a9493afad670c402385b7d25159352c67b",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 2.838,
+  "bfs_nr_gemeinde": "4461",
+  "gemeinde_name": "Amriswil",
+  "total": 2.838,
+  "einwohner": 13047
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "03d983ff9ed8d006553c5c87b227acb2a0b0faa8",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.589,
+  "bfs_nr_gemeinde": "4536",
+  "gemeinde_name": "Basadingen-Schlattingen",
+  "total": 0.589,
+  "einwohner": 1807
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5260a65a0cd52bc1cad2dbf7f049710ac37082ca",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.267,
+  "bfs_nr_gemeinde": "4716",
+  "gemeinde_name": "Bettwiesen",
+  "total": 0.267,
+  "einwohner": 1153
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2c97fe0c5f808c5116c46beb2f1ca2fd07b29c9d",
+  "fields": {
+  "wasserkraft": 1.903,
+  "biogasanlagen_abwasser": 1.232,
+  "jahr": "2015",
+  "photovoltaik": 0.606,
+  "bfs_nr_gemeinde": "4471",
+  "gemeinde_name": "Bischofszell",
+  "total": 3.741,
+  "einwohner": 5861
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0cd88970970ef015292492c1ee5b04a84ac87931",
+  "fields": {
+  "wasserkraft": 5.26,
+  "jahr": "2015",
+  "photovoltaik": 0.939,
+  "bfs_nr_gemeinde": "4911",
+  "gemeinde_name": "Bürglen (TG)",
+  "total": 6.199,
+  "einwohner": 3679
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2e8a81d90c48f9ef93a90836dec215d6ccae0507",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.771,
+  "bfs_nr_gemeinde": "4411",
+  "gemeinde_name": "Egnach",
+  "total": 1.771,
+  "einwohner": 4562
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6edcb104fb6661beb951e3d4fae14b7d576689dd",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.309,
+  "biomasse_holz": 0.051,
+  "bfs_nr_gemeinde": "4724",
+  "gemeinde_name": "Eschlikon",
+  "total": 2.513,
+  "einwohner": 4267,
+  "biogasanlagen_landwirtschaft": 1.153
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3f740d75491621844b6f48691c929a290618346f",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.464,
+  "bfs_nr_gemeinde": "4656",
+  "gemeinde_name": "Güttingen",
+  "total": 0.464,
+  "einwohner": 1574
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "a338a2a59ebf76b94803ec53b2471cc2e310c046",
+  "fields": {
+  "biogasanlagen_abwasser": 0.674,
+  "jahr": "2015",
+  "photovoltaik": 1.665,
+  "bfs_nr_gemeinde": "4416",
+  "gemeinde_name": "Hefenhofen",
+  "total": 2.339,
+  "einwohner": 1230
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "6cbc415bdcfd705c74762e23989945ee186141cb",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.845,
+  "bfs_nr_gemeinde": "4495",
+  "gemeinde_name": "Hohentannen",
+  "total": 0.845,
+  "einwohner": 612
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1fcd35439e1459ed134c492db9305292b8c9d9f7",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.564,
+  "bfs_nr_gemeinde": "4816",
+  "gemeinde_name": "Homburg",
+  "total": 1.564,
+  "einwohner": 1510
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "4b01a289709df7758cbb71e47b1f53aeb3549eb7",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.143,
+  "bfs_nr_gemeinde": "4421",
+  "gemeinde_name": "Horn",
+  "total": 0.143,
+  "einwohner": 2592
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7e50a7bc48c9965876db5ac6670ea7d281e6aa55",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.283,
+  "bfs_nr_gemeinde": "4821",
+  "gemeinde_name": "Hüttwilen",
+  "total": 1.283,
+  "einwohner": 1665
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "5e607ebbdcc5b40432ee688b71371e8cf806348c",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 2.155,
+  "bfs_nr_gemeinde": "4666",
+  "gemeinde_name": "Kemmental",
+  "total": 2.155,
+  "einwohner": 2385
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "35d014f66381a8feef505283bb60f4489461d73f",
+  "fields": {
+  "wasserkraft": 13.076,
+  "jahr": "2015",
+  "photovoltaik": 0.586,
+  "bfs_nr_gemeinde": "4501",
+  "gemeinde_name": "Kradolf-Schönenberg",
+  "total": 13.662,
+  "einwohner": 3551
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f60a3f4492648c503f3704902428b066e6e1ddae",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.345,
+  "bfs_nr_gemeinde": "4671",
+  "gemeinde_name": "Kreuzlingen",
+  "total": 1.345,
+  "einwohner": 21499
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "554d866eec6e2cf6ac32c688d7dcff019157bcf4",
+  "fields": {
+  "wasserkraft": 1.372,
+  "jahr": "2015",
+  "photovoltaik": 0.419,
+  "bfs_nr_gemeinde": "4841",
+  "gemeinde_name": "Pfyn",
+  "total": 1.791,
+  "einwohner": 1932
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "0ef153518dd74af7844fed795e97092f11e0d2cc",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.026,
+  "bfs_nr_gemeinde": "4431",
+  "gemeinde_name": "Roggwil (TG)",
+  "total": 1.123,
+  "einwohner": 2947,
+  "biogasanlagen_landwirtschaft": 0.097
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c957fd6a8328963ca74c6965c8546d854f4c239f",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.113,
+  "bfs_nr_gemeinde": "4446",
+  "gemeinde_name": "Sommeri",
+  "total": 0.113,
+  "einwohner": 520
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "438dc0083ae3fe9c13a62d34fd8ea8c6fc29de8a",
+  "fields": {
+  "wasserkraft": 0.022,
+  "jahr": "2015",
+  "photovoltaik": 0.527,
+  "bfs_nr_gemeinde": "4864",
+  "gemeinde_name": "Steckborn",
+  "total": 0.549,
+  "einwohner": 3716
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "333a0e5b0edbe391401d57b5bb780017d89ebabc",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.708,
+  "bfs_nr_gemeinde": "4506",
+  "gemeinde_name": "Sulgen",
+  "total": 0.708,
+  "einwohner": 3676
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b3703a66cfab2adf4df23ad532f217f90ad254e3",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 2.588,
+  "bfs_nr_gemeinde": "4696",
+  "gemeinde_name": "Tägerwilen",
+  "total": 2.588,
+  "einwohner": 4377
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "7960ba9f7062a9234295daadd5370a300d687e3a",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.35,
+  "bfs_nr_gemeinde": "4776",
+  "gemeinde_name": "Tobel-Tägerschen",
+  "total": 0.35,
+  "einwohner": 1551
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1116aa8c07585b0b393517e579faf93165606f71",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.526,
+  "bfs_nr_gemeinde": "4786",
+  "gemeinde_name": "Wilen (TG)",
+  "total": 0.526,
+  "einwohner": 2456
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "aaf80cd3ada0e61bec46abb686fad74fc96aeea8",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.901,
+  "bfs_nr_gemeinde": "4711",
+  "gemeinde_name": "Affeltrangen",
+  "total": 1.901,
+  "einwohner": 2481
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "c9d01f69eb7c66500e4373a8360863145999a287",
+  "fields": {
+  "biogasanlagen_abwasser": 0.104,
+  "jahr": "2015",
+  "photovoltaik": 0.127,
+  "bfs_nr_gemeinde": "4801",
+  "gemeinde_name": "Berlingen",
+  "total": 0.231,
+  "einwohner": 863
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "b15ba5c790e231bc33a119e3f42849050357efeb",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.91,
+  "biomasse_holz": 3.004,
+  "bfs_nr_gemeinde": "4721",
+  "gemeinde_name": "Bichelsee-Balterswil",
+  "total": 3.914,
+  "einwohner": 2790
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "07d76e0ab286457ab49ca4ba2f18db672f670574",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.513,
+  "bfs_nr_gemeinde": "4901",
+  "gemeinde_name": "Birwinken",
+  "total": 0.513,
+  "einwohner": 1354
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "836c3fec28c7830499deecbbd0dc70aeef594961",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.443,
+  "bfs_nr_gemeinde": "4643",
+  "gemeinde_name": "Bottighofen",
+  "total": 0.443,
+  "einwohner": 2166
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "eddce829d6a04102e0bac2f06e22458e5af5058c",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.013,
+  "bfs_nr_gemeinde": "4545",
+  "gemeinde_name": "Diessenhofen",
+  "total": 1.013,
+  "einwohner": 3646
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "fc7258e3889d54739678f72dc3cadbed305a5e9b",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.273,
+  "bfs_nr_gemeinde": "4646",
+  "gemeinde_name": "Ermatingen",
+  "total": 0.273,
+  "einwohner": 3199
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "85a4999ec417041d5522815a8fd6e5e4844029bc",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.332,
+  "bfs_nr_gemeinde": "4806",
+  "gemeinde_name": "Eschenz",
+  "total": 0.332,
+  "einwohner": 1719
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "ed4b020b6ab022611eea4d017f028ace26df4626",
+  "fields": {
+  "wasserkraft": 2.578,
+  "biogasanlagen_abwasser": 1.369,
+  "jahr": "2015",
+  "photovoltaik": 3.498,
+  "bfs_nr_gemeinde": "4566",
+  "gemeinde_name": "Frauenfeld",
+  "total": 9.822,
+  "einwohner": 24733,
+  "biogasanlagen_landwirtschaft": 0.107,
+  "biogasanlagen_industrie": 2.27
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "9af35a5cb8e9c37d304c3b02b019befa99264160",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.179,
+  "bfs_nr_gemeinde": "4571",
+  "gemeinde_name": "Gachnang",
+  "total": 1.179,
+  "einwohner": 3978
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f080d6d059a033bff9a42602f30653f9a9b36eef",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.03,
+  "bfs_nr_gemeinde": "4651",
+  "gemeinde_name": "Gottlieben",
+  "total": 0.03,
+  "einwohner": 320
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "1b2e8efb3d9e80d1252113317ec6239aba051ffe",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.084,
+  "bfs_nr_gemeinde": "4486",
+  "gemeinde_name": "Hauptwil-Gottshaus",
+  "total": 1.084,
+  "einwohner": 1910
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f29c88b133c296cd3664022b95b6b307f8246493",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.416,
+  "bfs_nr_gemeinde": "4590",
+  "gemeinde_name": "Hüttlingen",
+  "total": 0.416,
+  "einwohner": 829
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "338188a73819ab867ed4a2358b488c0d3b5ea32d",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.192,
+  "bfs_nr_gemeinde": "4681",
+  "gemeinde_name": "Langrickenbach",
+  "total": 0.192,
+  "einwohner": 1274
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3485810f5d87d83476e15fbe9b189f95dfeb0466",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.425,
+  "bfs_nr_gemeinde": "4683",
+  "gemeinde_name": "Lengwil",
+  "total": 0.425,
+  "einwohner": 1653
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f91ff45a8373e3cb7c42e730256a4a0bd5e00395",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.064,
+  "bfs_nr_gemeinde": "4826",
+  "gemeinde_name": "Mammern",
+  "total": 0.064,
+  "einwohner": 625
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "29c8800cb5099f42ca82e1029c6237ba9e5476b6",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.221,
+  "bfs_nr_gemeinde": "4941",
+  "gemeinde_name": "Märstetten",
+  "total": 1.221,
+  "einwohner": 2744
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "e02a5d8c77ba3db37480f96deb1f5f6f8d37d58c",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.92,
+  "bfs_nr_gemeinde": "4746",
+  "gemeinde_name": "Münchwilen (TG)",
+  "total": 0.92,
+  "einwohner": 5252
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "23539456b6895d1529e6dcd6a58121a9c7c7b8db",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.246,
+  "bfs_nr_gemeinde": "4846",
+  "gemeinde_name": "Raperswilen",
+  "total": 0.246,
+  "einwohner": 396
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2a3f839d3a444747c9c2bcbdb902ec0feeb390be",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.042,
+  "bfs_nr_gemeinde": "4436",
+  "gemeinde_name": "Romanshorn",
+  "total": 1.042,
+  "einwohner": 10708
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "3a9eeba5469f319548073131b6dd7b2514a45422",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.138,
+  "bfs_nr_gemeinde": "4851",
+  "gemeinde_name": "Salenstein",
+  "total": 0.138,
+  "einwohner": 1281
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8358e759e28cc4e841061fa4918f3327a9a21830",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.451,
+  "bfs_nr_gemeinde": "4756",
+  "gemeinde_name": "Schönholzerswilen",
+  "total": 0.451,
+  "einwohner": 804
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "bf29fe77f51aa8fef5749c9082a3823929142a44",
+  "fields": {
+  "wasserkraft": 0.385,
+  "jahr": "2015",
+  "photovoltaik": 0.786,
+  "bfs_nr_gemeinde": "4761",
+  "gemeinde_name": "Sirnach",
+  "total": 1.171,
+  "einwohner": 7642
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "2335d96c607835a4b6c7e165c5aa032764a9993c",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.275,
+  "bfs_nr_gemeinde": "4606",
+  "gemeinde_name": "Stettfurt",
+  "total": 0.275,
+  "einwohner": 1164
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "df4cf53deca501ab1a1038120a314f9af70ab601",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.903,
+  "bfs_nr_gemeinde": "4611",
+  "gemeinde_name": "Thundorf",
+  "total": 0.903,
+  "einwohner": 1427
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "306eac8af8fc0e1e4bef3fd4187a454527aa6c7f",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.259,
+  "bfs_nr_gemeinde": "4871",
+  "gemeinde_name": "Wagenhausen",
+  "total": 0.259,
+  "einwohner": 1672
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "490f3bd293b7e5327e4861e26e7cd478b087a5fb",
+  "fields": {
+  "wasserkraft": 8.266,
+  "biogasanlagen_abwasser": 0.474,
+  "jahr": "2015",
+  "kehricht": 39.873,
+  "photovoltaik": 2.011,
+  "bfs_nr_gemeinde": "4946",
+  "gemeinde_name": "Weinfelden",
+  "total": 50.624,
+  "einwohner": 11147
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "d237bab1f6ff87f077e3f8209f711fbbeef6bd7c",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 1.254,
+  "bfs_nr_gemeinde": "4951",
+  "gemeinde_name": "Wigoltingen",
+  "total": 1.652,
+  "einwohner": 2369,
+  "biogasanlagen_landwirtschaft": 0.398
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "8c65427b9812ba6199859a8d43bf17dad9da64bf",
+  "fields": {
+  "jahr": "2015",
+  "photovoltaik": 0.72,
+  "bfs_nr_gemeinde": "4791",
+  "gemeinde_name": "Wuppenau",
+  "total": 0.72,
+  "einwohner": 1120
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  },
+  {
+  "datasetid": "div-energie-10",
+  "recordid": "f9711f283eb1d51c8f772effb0354c8a1060e972",
+  "fields": {
+  "wasserkraft": 0.342,
+  "jahr": "2015",
+  "photovoltaik": 0.196,
+  "bfs_nr_gemeinde": "4511",
+  "gemeinde_name": "Zihlschlacht-Sitterdorf",
+  "total": 0.538,
+  "einwohner": 2247
+  },
+  "record_timestamp": "2022-06-09T06:28:13.38Z"
+  }
+  ]
+  }

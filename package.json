@@ -1,0 +1,32 @@
+{
+  "name": "hackathon-rms-2023-mar",
+  "version": "1.0.0",
+  "description": "Coole web app für ogd tg tkb usw... Mit Sitti, Remo und Manu. Mega heftig",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx dev-server",
+    "compile": "npx sass --watch ./public/sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemoThim/Hackathon-Team-RMS-Zero.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "ogd",
+    "tkb",
+    "tg",
+    "ch"
+  ],
+  "author": "Manuel Capeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RemoThim/Hackathon-Team-RMS-Zero/issues"
+  },
+  "homepage": "https://github.com/RemoThim/Hackathon-Team-RMS-Zero#readme",
+  "dependencies": {
+    "sass": "^1.59.3"
+  }
+}

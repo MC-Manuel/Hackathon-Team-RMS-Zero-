@@ -1,0 +1,113 @@
+* {
+  font-family: "Roboto", sans-serif;
+  list-style: none !important;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  margin-top: 8px;
+  background-color: #313131;
+}
+
+p, span, div, h1, h2, h3, h4 input, label {
+  color: white;
+}
+
+#header div:first-child {
+  display: flex;
+  column-gap: 20px;
+  justify-content: end;
+  margin-right: 20px;
+}
+#header div:first-child a {
+  font-size: 24px;
+  background: linear-gradient(90deg, #2192FF 0%, #38E54D 75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#header #title-search {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+#header #title-search h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+  background: linear-gradient(90deg, #2192FF 0%, #38E54D 25%, #9CFF2E 50%, #FDFF00 75%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#header #title-search p {
+  color: #2192FF;
+  max-width: 500px;
+}
+#header #title-search input {
+  color: black;
+  width: 400px;
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  border: 4px solid;
+  border-image: linear-gradient(to right, #2192FF 0%, #38E54D 25%, #9CFF2E 50%, #FDFF00 75%) 1;
+}
+
+#main {
+  border-top: 4px solid;
+  border-image: linear-gradient(to right, #2192FF 0%, #38E54D 25%, #9CFF2E 50%, #FDFF00 75%) 1;
+  border-top-color: linear-gradient(90deg, #2192FF 0%, #38E54D 25%, #9CFF2E 50%, #FDFF00 75%);
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+#main #kriterien-sidebar {
+  background-color: #414141;
+  border-right: 3px solid #38E54D;
+  padding-left: 20px;
+}
+#main #kriterien-sidebar .cat-section {
+  display: grid;
+  justify-content: start;
+  gap: 5px !important;
+}
+#main #kriterien-sidebar .cat-section div {
+  display: grid;
+  grid-template-columns: 0fr 3fr;
+  align-items: center;
+  align-content: center;
+}
+#main #kriterien-sidebar .cat-section h3 {
+  color: #38E54D;
+  margin-bottom: 2px;
+}
+#main #kriterien-sidebar .cat-section label {
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+#main #gemeinde-box .info-gmeinde-box {
+  margin-top: 30px;
+  border: 4px solid;
+  border-image: linear-gradient(to right, #2192FF 0%, #38E54D 25%, #9CFF2E 50%, #FDFF00 75%) 1;
+  margin-left: 20px;
+  min-height: 180px;
+  margin-right: 20px;
+  background-color: #414141;
+}
+#main #gemeinde-box .info-gmeinde-box div {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#main #gemeinde-box h2 {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+#main #gemeinde-box .info-gmeinde-info {
+  display: flex;
+  flex-wrap: wrap;
+  marigin-top: 0;
+  max-width: 100%;
+}
+#main #gemeinde-box h4 {
+  color: #2192FF;
+  text-transform: uppercase;
+}
+
+/*# sourceMappingURL=styles.css.map */

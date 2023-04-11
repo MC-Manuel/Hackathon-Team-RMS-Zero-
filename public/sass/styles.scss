@@ -1,0 +1,148 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    // border: 1px solid red;
+    list-style: none !important;
+}
+$clr-1: #2192FF;
+$clr-2: #38E54D;
+$clr-3: #9CFF2E;
+$clr-4: #FDFF00;
+
+$gradient-1: linear-gradient(90deg,$clr-1 0%,$clr-2 25%,$clr-3 50%,$clr-4 75%);
+$gradient-2: linear-gradient(90deg,$clr-1 0%,$clr-2 75%);
+$gradient-box: linear-gradient(to right, $clr-1 0%,$clr-2 25%,$clr-3 50%,$clr-4 75%) 1;
+$gradient-box2: linear-gradient(to right, $clr-1 0%,$clr-2 75%) 1;
+
+html, body {
+    margin: 0;
+    height: 100%;
+    margin-top: 8px;
+    background-color: #313131;
+}
+
+body{
+    
+}
+ p, span, div, h1, h2, h3, h4 input, label{
+        color: white;
+ }
+
+#header{
+    div:first-child{
+       display: flex;
+       column-gap: 20px;
+       justify-content: end;
+       margin-right: 20px;
+       a{
+            font-size: 24px;
+            background: $gradient-2;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+       }
+    }
+    #title-search{
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        h1{
+            font-size: 48px;
+            margin-bottom: 10px;
+            background: $gradient-1;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p{
+            color: $clr-1;
+            max-width: 500px;
+        }
+        input{
+            color: black;
+            width: 400px;
+            height: 30px;
+            // border-radius: 20px;
+            margin-top: 10px;
+            margin-bottom: 50px;
+            border: 4px solid ;
+            border-image: $gradient-box;
+            // background: $gradient-1 !important;
+        //     -webkit-mask: 
+        // linear-gradient(#ffffff79 0 0) padding-box, 
+        // linear-gradient(rgb(67, 35, 126) 0 0);
+        // -webkit-mask-composite: xor; 
+        //   mask-composite: exclude; 
+          
+        }
+
+    }
+    
+    
+}
+
+#main{
+    border-top: 4px solid ;
+    border-image: $gradient-box;
+    border-top-color: $gradient-1;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+
+    #kriterien-sidebar{
+        background-color: #414141;
+        .cat-section{
+            display: grid;
+            justify-content: start;
+            gap: 5px !important;
+            div{
+                display: grid;
+                grid-template-columns: 0fr 3fr;
+                align-items: center;
+                align-content: center;
+                
+            }
+            h3{
+                color: $clr-2;
+                margin-bottom: 2px;
+                
+            }
+            label{
+                text-transform: uppercase;
+                margin-left: 5px;
+            }
+        }
+        border-right: 3px solid $clr-2;
+        padding-left: 20px;
+        
+
+    }
+    #gemeinde-box{
+        .info-gmeinde-box{
+            margin-top: 30px;
+        border: 4px solid;
+        border-image: $gradient-box;
+        margin-left: 20px;
+        min-height: 180px;
+        margin-right: 20px;
+        div{
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        background-color: #414141;
+        }
+        h2{
+
+            padding-left: 20px;
+            margin-bottom: 10px;
+        }
+        .info-gmeinde-info{
+            display: flex;
+            flex-wrap: wrap;
+            marigin-top: 0;
+            max-width: 100%;
+            
+        }
+        h4{
+            color: #2192FF;
+            text-transform: uppercase;
+        }
+        
+    }
+    
+}
